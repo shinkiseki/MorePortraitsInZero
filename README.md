@@ -2,7 +2,7 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Last updated: 2022-10-06  
+Last updated: 2022-10-07  
 Compatible with: Coming soon!
 
 ## Installation instructions
@@ -27,5 +27,6 @@ Characters to add:
 *   New character #4 (0/3)
 
 ## Changelog
+*   2022-10-07: Added all portraits (face) and half-busts (visual).
 *   2022-10-06: Updated README to include to-do list.
 *   2022-10-04: Creation of repository.
