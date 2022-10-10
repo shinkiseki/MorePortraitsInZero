@@ -57,7 +57,7 @@ Coming soon!
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
-*   2022-10-09: Released v0.0.1. Added a new portrait for Chaco. New character #1 revealed (Fernand). Files for Wendy, Chaco, and Fernand completed. Updated README to include credits section and instructions for reporting issues, and installation instructions. Added list of known text issues fixed in this mod for documentation.
+*   2022-10-09: Released v0.1.0. Added a new portrait for Chaco. New character #1 revealed (Fernand). Files for Wendy, Chaco, and Fernand completed. Updated README to include credits section and instructions for reporting issues, and installation instructions. Added list of known text issues fixed in this mod for documentation.
 *   2022-10-07: Added all portraits (face) and half-busts (visual).
 *   2022-10-06: Updated README to include to-do list.
 *   2022-10-04: Creation of repository.
