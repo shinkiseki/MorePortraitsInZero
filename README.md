@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam ve
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Last updated: 2022-10-09  
-Compatible with: Coming soon!  
+Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
 
@@ -15,14 +15,14 @@ Watch the release trailer here: Coming soon!
 5.  To uninstall the mod, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed.
 
 ## List of added characters
-Completed characters in **bold**.
+Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=gPqF-cjxZ3c) of this mod are labeled as new.
 *   **Wendy (completed files: 2/2)**
 *   **Chaco (2/2)**
-*   Scott (0/14)
-*   Wenzel (0/11)
-*   Lynn (0/11)
-*   Aeolia (0/11)
-*   Vice Commissioner Pierre (0/2)
+*   Scott (1/14)
+*   Wenzel (1/11)
+*   Lynn (1/11)
+*   Aeolia (1/11)
+*   Pierre (0/2)
 *   Mireille (0/3)
 *   Sully (0/5)
 *   Abbas (0/6)
@@ -57,8 +57,7 @@ Coming soon!
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
-*   2022-10-09: Added a new portrait for Chaco. New character #1 revealed (Fernand). Files for Wendy, Chaco, and Fernand completed. Updated README to include installation instructions. Added list of known text issues fixed in this mod for documentation.
-*   2022-10-09: Updated README to include credits section and instructions for reporting issues.
+*   2022-10-09: Released v0.0.1. Added a new portrait for Chaco. New character #1 revealed (Fernand). Files for Wendy, Chaco, and Fernand completed. Updated README to include credits section and instructions for reporting issues, and installation instructions. Added list of known text issues fixed in this mod for documentation.
 *   2022-10-07: Added all portraits (face) and half-busts (visual).
 *   2022-10-06: Updated README to include to-do list.
 *   2022-10-04: Creation of repository.

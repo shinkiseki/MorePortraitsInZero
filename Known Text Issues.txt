@@ -1,14 +1,87 @@
 Known Text Issues
 
+c0010.py (Crossbell Station)
+
+Wenzel:
+"Just make sure not to interfere with ours \x01",
+"in the process.\x02",
+->
+"Just make sure not to interfere with ours\x01",
+"in the process.\x02",
+
+Tio:
+"#0200F(I see they still place us far below them in\x01",
+"terms of legitimacy.)\x02",
+
+"#0200F(I see they still place us far below them in \x01",
+"terms of legitimacy.)\x02",
+
+Wenzel:
+"Inspections, huh? Even us bracers have\x01",
+"some trouble taking on those requests. \x02",
+->
+"Inspections, huh? Even us bracers have\x01",
+"some trouble taking on those requests.\x02",
+
+Lynn:
+"Wait. Didn't you just step off a train that \x01",
+"came in from the Republic?\x02",
+->
+"Wait. Didn't you just step off a train that\x01",
+"came in from the Republic?\x02",
+
+Lynn:
+"At any rate, from what I understand, cargo \x01",
+"coming into Crossbell from Erebonia often \x01",
+"goes without inspection... \x02",
+->
+"At any rate, from what I understand, cargo\x01",
+"coming into Crossbell from Erebonia often\x01",
+"goes without inspection...\x02",
+
+Lynn:
+"What's it going to take for them to crack down \x01",
+"on that? As if their level of negligence hasn't\x01",
+"already put people at enough risk already. \x02",
+->
+"What's it going to take for them to crack down\x01",
+"on that? As if their level of negligence hasn't\x01",
+"already put people at enough risk already.\x02",
+
+Passenger:
+"On the other hand, my airship ride to Remiferia\x01",
+"was quite the thrill as well... I suppose they \x01",
+"both have their own unique charms, don't they?\x02",
+->
+"On the other hand, my airship ride to Remiferia\x01",
+"was quite the thrill as well... I suppose they\x01",
+"both have their own unique charms, don't they?\x02",
+
+Passenger:
+"Well, today's the day. I hope you're ready \x01",
+"to be swept off to the finest places Crossbell \x01",
+"has to offer. \x02",
+->
+"Well, today's the day. I hope you're ready\x01",
+"to be swept off to the finest places Crossbell\x01",
+"has to offer.\x02",
+
+"Shall we start by visiting Mishelam's famous \x01",
+"Fortuna restaurant?\x02",
+->
+"Shall we start by visiting Mishelam's famous\x01",
+"Fortuna restaurant?\x02",
+
 c014c.py (Genten Orbal Store -- during Anniversary Festival)
 
+**Wendy:**
 "I'm glad to see that the Anniversay Festival\x01
 went so smoothly this year.\x02"
 ->
 "I'm glad to see that the Anniversary Festival\x01
 went so smoothly this year.\x02"
 
-
+**Wendy:**
 "It might take a while, but it seems like it's just\x01",
 "going to come down to diligently combing\x01",
 "through the city\x02",
@@ -17,7 +90,7 @@ went so smoothly this year.\x02"
 "going to come down to diligently combing\x01",
 "through the city.\x02",
 
-
+Fernand:
 "The tourist mentioned that seeing how smoothly\x01",
 "the cars in the parade drove was what made him\x01",
 "want to buy one for himself. \x02",
@@ -26,7 +99,7 @@ went so smoothly this year.\x02"
 "the cars in the parade drove was what made him\x01",
 "want to buy one for himself.\x02",
 
-
+**Fernand:**
 "Are the food stalls outside drawing custmers away\x01",
 "from us? Bah, I knew we should have advertised\x01",
 "more aggressively.\x02",
