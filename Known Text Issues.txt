@@ -1,0 +1,36 @@
+Known Text Issues
+
+c014c.py (Genten Orbal Store -- during Anniversary Festival)
+
+"I'm glad to see that the Anniversay Festival\x01
+went so smoothly this year.\x02"
+->
+"I'm glad to see that the Anniversary Festival\x01
+went so smoothly this year.\x02"
+
+
+"It might take a while, but it seems like it's just\x01",
+"going to come down to diligently combing\x01",
+"through the city\x02",
+->
+"It might take a while, but it seems like it's just\x01",
+"going to come down to diligently combing\x01",
+"through the city.\x02",
+
+
+"The tourist mentioned that seeing how smoothly\x01",
+"the cars in the parade drove was what made him\x01",
+"want to buy one for himself. \x02",
+->
+"The tourist mentioned that seeing how smoothly\x01",
+"the cars in the parade drove was what made him\x01",
+"want to buy one for himself.\x02",
+
+
+"Are the food stalls outside drawing custmers away\x01",
+"from us? Bah, I knew we should have advertised\x01",
+"more aggressively.\x02",
+->
+"Are the food stalls outside drawing customers away\x01",
+"from us? Bah, I knew we should have advertised\x01",
+"more aggressively.\x02",
