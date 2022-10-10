@@ -8,7 +8,7 @@ Compatible with: Trails from Zero v1.3.7
 Watch the release trailer here: Coming soon!
 
 ## Installation instructions
-1.  Download the latest release of More Portraits in Zero. This should include a data folder and a README file.
+1.  Download the latest release of More Portraits in Zero. This should include, among other files, a data folder.
 2.  Identify the folder where the Steam edition of Trails from Zero lives. Within this folder, there should be, among other files, the game itself (zero.exe) and a data folder. This is the __root folder__ of the game.
 3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
 4.  The mod has now been installed! New portraits will now be shown in-game.
