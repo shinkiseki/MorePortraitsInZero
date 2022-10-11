@@ -2,108 +2,987 @@ Known Text Issues
 
 c0010.py (Crossbell Station)
 
-Wenzel:
 "Just make sure not to interfere with ours \x01",
 "in the process.\x02",
-->
-"Just make sure not to interfere with ours\x01",
-"in the process.\x02",
-
-Tio:
-"#0200F(I see they still place us far below them in\x01",
-"terms of legitimacy.)\x02",
 
 "#0200F(I see they still place us far below them in \x01",
 "terms of legitimacy.)\x02",
 
-Wenzel:
 "Inspections, huh? Even us bracers have\x01",
 "some trouble taking on those requests. \x02",
-->
-"Inspections, huh? Even us bracers have\x01",
-"some trouble taking on those requests.\x02",
 
-Lynn:
 "Wait. Didn't you just step off a train that \x01",
 "came in from the Republic?\x02",
-->
-"Wait. Didn't you just step off a train that\x01",
-"came in from the Republic?\x02",
 
-Lynn:
 "At any rate, from what I understand, cargo \x01",
 "coming into Crossbell from Erebonia often \x01",
 "goes without inspection... \x02",
-->
-"At any rate, from what I understand, cargo\x01",
-"coming into Crossbell from Erebonia often\x01",
-"goes without inspection...\x02",
 
-Lynn:
 "What's it going to take for them to crack down \x01",
 "on that? As if their level of negligence hasn't\x01",
 "already put people at enough risk already. \x02",
-->
-"What's it going to take for them to crack down\x01",
-"on that? As if their level of negligence hasn't\x01",
-"already put people at enough risk already.\x02",
 
-Passenger:
 "On the other hand, my airship ride to Remiferia\x01",
 "was quite the thrill as well... I suppose they \x01",
 "both have their own unique charms, don't they?\x02",
-->
-"On the other hand, my airship ride to Remiferia\x01",
-"was quite the thrill as well... I suppose they\x01",
-"both have their own unique charms, don't they?\x02",
 
-Passenger:
 "Well, today's the day. I hope you're ready \x01",
 "to be swept off to the finest places Crossbell \x01",
 "has to offer. \x02",
-->
-"Well, today's the day. I hope you're ready\x01",
-"to be swept off to the finest places Crossbell\x01",
-"has to offer.\x02",
 
 "Shall we start by visiting Mishelam's famous \x01",
 "Fortuna restaurant?\x02",
-->
-"Shall we start by visiting Mishelam's famous\x01",
-"Fortuna restaurant?\x02",
+
+"I heard that hot springs work miracles for \x01",
+"the hips, so I've decided to venture over \x01",
+"to Calvard to see for myself.\x02",
+
+"i know these ol' hips of mine are looking forward \x01",
+"to relaxing in the warm, soothing water.\x02",
+
+"The tickets I purchased are for the train \x01",
+"right after this one. Any second now...\x02",
+
+"Just watch! I'll find a foreign guy that's \x01",
+"a thousand times more charming and \x01",
+"handsome than that jerk!\x02",
+
+"Working out of state's gonna be hard on him, \x01",
+"so I'm here to provide some moral support \x01",
+"before he leaves.\x02",
+
+"It's about time for the Empire-bound train \x01",
+"to depart.\x02",
+
+"I'm a little sad to leave, but I should get\x01",
+"myself to the platform. \x02",
+
+"#5P#0200FThe representative's daughter must be \x01",
+"around here somewhere.\x02",
+
+"#11P#0001FThe train heading for Calvard leaves from \x01",
+"Platform 1. Come on!\x02",
+
+"#5PThat's certainly not the answer I was\x01",
+"hoping to hear, but all right. \x02",
+
+"#5PI'm quite short on time myself. I'm counting \x01",
+"on you all. \x02",
+
+"#5PThough, I suppose it's better than if no one \x01",
+"had showed up at all.\x02",
+
+"#12P#0301F(The hell? We offer up our help in his hour \x01",
+"of need and this stuck-up old geezer decides \x01",
+"to talk down to us?)\x02",
+
+"#5PA train bound for Erebonia will be arriving \x01",
+"any second now.\x02",
+
+"#5PI want your help in inspecting the interior \x01",
+"of said train.\x02",
+
+"#0000FWe'll be looking for any passengers or \x01",
+"luggage considered too dangerous for \x01",
+"Erebonian territory, correct?\x02",
+
+"#5PI don't normally have to do this on my own, \x01",
+"but I woke up to a torrent of sick leaves \x01",
+"this morning.\x02",
+
+"#5POnce we're on the platform, I'll delve into \x01",
+"the specifics of the job. \x02",
+
+"#5P#0006FThis wasn't exactly what I had in mind\x01",
+"when we got this request... \x02",
+
+"#0000FThe inspection officer is waiting for us \x01",
+"at Platform 2.\x02\x03",
+"We should make our way over there.\x02",
+
+"You know, it wasn't that long ago that Erebonia\x01",
+"and Calvard were on rather sour terms with each \x01",
+"other, around the time of the Hundred Years War. \x02",
+
+//This text box appears twice
+"After all that blew over, the system was \x01",
+"majorly improved to prevent a similar \x01",
+"situation from ever happening again. \x02",
+
+"As we approach our departure, we would like to \x01",
+"remind passengers to board the train in a calm,\x01",
+"orderly fashion for your safety and others'.\x02",
+
+"The bus service provides transportation to the\x01",
+"Erebonian and Calvardian border gates, if you\x01",
+"would prefer an alternative to the rail lines. \x02",
+
+"If needed, I can also show you the proper \x01",
+"bus routes to take to return home from \x01",
+"the board gates.\x02",
+
+"I was distracted by the Crossbell Times article \x01",
+"I was reading.\x02",
+
+"There's been a lot of accidents lately. \x01",
+"Far too many in my book.\x02",
+
+"All I want is for passengers to be safe and\x01",
+"have pleasant travels. \x02",
+
+"We provide food and beverage services on \x01",
+"our trains for your convenience. \x02",
+
+"Now that's dedication. I really tip my hat off \x01",
+"to them for just how much their contributions\x01",
+"have made Crossbell's economy flourish. \x02",
+
+"For your safety, please refrain from leaning \x01",
+"forward as trains pass through. And, as \x01",
+"always, thank you for your cooperation. \x07\x00\x02",
+
+"I'm so glad they trusted me with this. \x01",
+"It's the perfect job for me.\x02",
+
+"In addition to selling tickets, I'm also happy \x01",
+"to walk you through how to use them, if \x01",
+"you're having trouble.\x02",
+
+"Please refrain from standing near Platform 3.\x01",
+"That platform is reserved for freight transport \x01",
+"and special express lines.\x07\x00\x02",
+
+"Regular passengers are unauthorized to embark \x01",
+"or disembark from Platform 3.\x02",
+
+"It's reserved for Crossbell Guardian Force \x01",
+"freight trains, so please be sure to keep out \x01",
+"of that area. \x02",
+
+"By the way, I happened to run into a young \x01",
+"lady who seemed...a little out of it, for lack \x01",
+"of a better term.\x02",
+
+"She struck me as wealthy, but I didn't see a \x01",
+"maid or anything of the sort accompanying her. \x02",
+
+"Even with the hustle and bustle of the festival,\x01",
+"there was one passenger in particular that \x01",
+"stood out to me.\x02",
+
+"Loads of people from the Empire and Republic\x01",
+"pour into Crossbell from this station each day\x01",
+"to visit. And their mark definitely shows. \x02",
+
+//This text box appears twice
+"Just look at our stores and architecture. With \x01",
+"all that's gone into shaping Crossbell City, you \x01",
+"can say it's the cultural melting pot of Zemuria.\x02",
+
+"I remember you guys. Weren't you heading to \x01",
+"Calvard? Do you vacation a lot or something? \x02",
+
+"I'm sure once you're used to traveling by\x01",
+"train, it can become dull. I recommend \x01",
+"you read a book to kill the time.\x02",
+
+"Actually, I finished this novel not too \x01",
+"long ago. Here, you can take it.\x02",
+
+"But don't let that break get you too comfortable \x01",
+"now. We need to stay sharp. Vigilant. \x02",
+
+"Indeed it has. Thank you again for \x01",
+"last time, everyone.\x02",
+
+"Oh? Keep up the good work, then. They say \x01",
+"those who put in the most effort are the ones \x01",
+"who'll find the most success in life. \x02",
+
+"They say those who put in the most effort are \x01",
+"the ones who'll find the most success in life.\x02",
+
+"I'm on my way to perform a routine inspection \x01",
+"of Platform 2.\x02",
+
+"Those two are impressive, especially \x01",
+"considering how young they are.\x02\x03",
+
+c0140.py (Genten Orbal Store)
+"If I had to describe everything that the Reinford\x01",
+"Company manufactures, the words 'hefty' and \x01",
+"'strict' come to mind.\x02",
 
 c014c.py (Genten Orbal Store -- during Anniversary Festival)
 
-**Wendy:**
 "I'm glad to see that the Anniversay Festival\x01
 went so smoothly this year.\x02"
-->
-"I'm glad to see that the Anniversary Festival\x01
-went so smoothly this year.\x02"
 
-**Wendy:**
 "It might take a while, but it seems like it's just\x01",
 "going to come down to diligently combing\x01",
 "through the city\x02",
-->
-"It might take a while, but it seems like it's just\x01",
-"going to come down to diligently combing\x01",
-"through the city.\x02",
 
-Fernand:
 "The tourist mentioned that seeing how smoothly\x01",
 "the cars in the parade drove was what made him\x01",
 "want to buy one for himself. \x02",
-->
-"The tourist mentioned that seeing how smoothly\x01",
-"the cars in the parade drove was what made him\x01",
-"want to buy one for himself.\x02",
 
-**Fernand:**
 "Are the food stalls outside drawing custmers away\x01",
 "from us? Bah, I knew we should have advertised\x01",
 "more aggressively.\x02",
-->
-"Are the food stalls outside drawing customers away\x01",
-"from us? Bah, I knew we should have advertised\x01",
-"more aggressively.\x02",
+
+c1010.py (Bracer Guild)
+
+"#1400FHowever, their organization has been\x01",
+"split into numerous smaller units, \x01",
+"essentialy dividing them.\x02\x03",
+			
+"#1404FThere's no need to compare our accomplishments. \x01",
+"Simply continue onward along the path you've\x01",
+"chosen.\x02\x03",
+
+"#0211F(I cannot help but feel like he has us \x01",
+"'dancing in the palm of his hand,'\x01",
+"as they say.)\x02",
+
+"#5PA nation known as the Calvard Republic sits\x01",
+"directly to the east of Crossbell, opposite \x01",
+"the Erebonian Empire.\x02",
+
+"#5P#0102FYou're doing great, Lloyd. \x01",
+"I'm thoroughly impressed!\x02",
+
+"At this rate, we probalby won't even be able to plan\x01",
+"our wedding for some time. I'm going to have to\x01",
+"find a way to make it up to her.\x02",
+
+c0210.py (Morges Bakery)
+"Oh, speaking of...Morge is giving me the\x01",
+"afternoon off today. \x02",
+
+"#0304FShould be able to get those fillets off of some\x01",
+"of those fishy monsters. \x02\x03",
+"Birds 'n snakes are our best bet for the eggs.\x02",
+
+"#0100FMonsters drop quite a numbers of items \x01",
+"that can be used as ingredients. \x02\x03",
+"Something to definitely keep an eye out for. \x01",
+"I'm sure it'll come in handy during our \x01",
+"investigations. \x02",
+
+"#0004FAll right. Sounds like this'll be a quick \x01",
+"errand, so let's get to it. \x02",
+
+"You guys really saved my skin today. Go ahead \x01",
+"and grab any loaf that catches your eye.\x02",
+
+"#0000FThanks, Oscar. I think we'll just have to take\x01",
+"you up on that. \x02",
+
+"#0006F*sigh* And I'd have to mark you down as just \x01",
+"as tactless as ever. \x02",
+
+"#0100FRegardless, it sounds like West Street is \x01",
+"incident-free.\x02",
+
+"#0000FO-Oh, really...?\x02\x03",
+"I can't help but think that one's on you, Oscar. \x01",
+"You can be as dense as a brick at times.\x02",
+
+"#0100F(Well, it sounds like West Street is \x01",
+"incident-free, at least.) \x02",
+
+"I doled out my honest critique, and then...\x01",
+"she just started freakin' out and stormed\x01",
+"outta here. \x02",
+
+"#0300FYou got a spot in the Crossbell Times?\x01",
+"That's awesome, man. \x02",
+
+"#0200FGiven how extraordinary his skills are, I cannot\x01",
+"say I am surprised. \x02",
+
+"Oh, no. Honestly, I was a little reluctant \x01",
+"to participate in the whole thing. I'm still \x01",
+"just in training, y'know? \x02",
+
+"With all that to live up to, I was definitely \x01",
+"feelin' the pressure to nail this month's \x01",
+"signature creation. \x02",
+
+"#0006FHey, now, don't start racking up our tab \x01",
+"on your own.\x02\x03",
+
+"It's become a staple for dates and \x01",
+"family outings.\x02",
+
+"#0001FNo, we're still looking. We've got a solid \x01",
+"lead now, though, so don't worry. \x02",
+
+"And who's this lovely lil' lady? What \x01",
+"are you two up to?\x02",
+
+"Yeah, he lives in the Residential District, \x01",
+"I think.\x02",
+
+"Actually, I didn't see them around here during \x01",
+"the parade, either.\x02",
+
+"#0000FThought so... All right, thanks for the \x01",
+"info. You've been a huge help.\x02",
+
+"I know that kid, but he hasn't been \x01",
+"in here today.\x02",
+
+"I don't think I saw him pass by outside, either.\x02",
+
+"We've had to keep all our ovens running at \x01",
+"full capacity today.\x02",
+
+"We weren't expecting even close to this \x01",
+"many people.\x02",
+
+"Even the boss said this is the largest \x01",
+"attendance he's seen in all his years. \x02",
+
+"I hear the parade route's going to be passing \x01",
+"in front of our shop.\x02",
+
+"I hope people don't go too crazy out there. \x01",
+"I'd hate to see anyone get hurt. \x02",
+
+"Bennet thought to start handing out \x01",
+"free samples.\x02",
+
+"A brilliant idea, if I do say so myself. \x01",
+"I bet we'll rake in even more sales today.\x02",
+
+"We've been working like dogs 'cause of the \x01",
+"festival. I'd say we're selling three times more \x01",
+"than we do on any average day of the year.\x02",
+
+"I was worried that Mayor MacDowell gettin' \x01",
+"hurt would affect business, but I guess you\x01",
+"just can't kill the love for bread.\x02",
+
+"I'm even in the spirit myself. I whipped up \x01",
+"a new kind of bread with an Anniversary\x01",
+"Festival design. \x02",
+
+"They're in plain ol' civilian clothes, but \x01",
+"I can't shake the feeling that they're on \x01",
+"an undercover investigation.\x02",
+
+"Haha, think you're givin' a guy a bit \x01",
+"too much credit.\x02",
+
+"I'm not usually into that kinda thing, but \x01",
+"the customers have been chattering about \x01",
+"it nonstop.\x02",
+
+"Oh, here's an idea. You wanna go with \x01",
+"me, Lloyd?\x02",
+
+"You know, the pretty lady who lives in the \x01",
+"apartments down the street. \x02",
+
+"She said she wanted to thank me for the extra \x01",
+"bread I throw in every now and again. \x02",
+
+"#0006F(Classic Oscar. He's still just as pop-culture\x01",
+"illiterate as I remember.) \x02",
+
+"She's this pretty gal that lives in the \x01",
+"apartments down the street. \x02",
+
+"I throw in some of my new breads on the house \x01",
+"every now and again, so she gave me the tickets \x01",
+"as thanks.\x02",
+
+"#0100FNow that you mention it, it sounds like a lot of \x01",
+"shipping companies are starting to use orbal \x01",
+"trucks to make their deliveries. \x02",
+
+"There's this black truck I'll see sometimes \x01",
+"when I come in to prep at around three in \x01",
+"the morning.\x02",
+
+"#0003F(Hmm... I wonder if they could be using the \x01",
+"West Crossbell Highway as a smuggling route \x01",
+"between here and the Empire.)\x02",
+
+"(Can't forget that they cropped up in Mainz, \x01",
+"too, so they've clearly got something brewing \x01",
+"behind the scenes.)\x02",
+
+"There's this black truck I'll see sometimes \x01",
+"when I come in to prep at around three in \x01",
+"the morning.\x02",
+
+"#0100FIt may be a grind sometimes, but it's nice to \x01",
+"see that our efforts are appreciated.\x02",
+
+"#0006FZeit? I should've figured. Ever the \x01",
+"glory hound...\x02",
+
+//appears twice
+"You've gotta introduce me sometime, man. \x01",
+"You know I love dogs!\x02",
+
+"That pup of yours is the hot topic around \x01",
+"these parts.\x02",
+
+"Heck, I'll even throw in the new bread of the \x01",
+"month. My treat!\x02",
+
+"Y'know, Bennet's the boss' daughter, and boy does \x01",
+"it show when you just get a whiff of her bread.\x01",
+"She's a hell of a baker, just like her pops.\x02",
+
+"Kind of a waste for such a cute gal like \x01",
+"her to be so tense and angry all the time.\x02",
+
+"Bread produced in the Republic is cheaper \x01",
+"these days, but you'll find it's not nearly \x01",
+"as fresh.\x02",
+
+"#0000FJust doing our rounds, is all.\x02\x03",
+"You're always up bright and early, too, aren't \x01",
+"you, Oscar? Though...I suppose that's par \x01",
+"for the course as a baker.\x02",
+
+"#0006FAt any rate, we're here because we have\x01",
+"some work to take care of. \x02\x03",
+"#0000FYou're always up bright and early, too, aren't \x01",
+"you, Oscar? Though...I suppose that's par \x01",
+"for the course as a baker.\x02",
+
+"We actually start our day here at three in \x01",
+"the morning. It's incredible how liberating it \x01",
+"feels to have the whole world to yourself. \x02",
+
+"It's been what, half a year? No, a whole year \x01",
+"since we last saw each other? Wow, time \x01",
+"sure flies...\x02",
+
+//appears twice
+"And besides, you might've gotten a bit taller,\x01",
+"but I see you still haven't outgrown that \x01",
+"precious, little baby face. \x02",
+
+"#0006FAll right, all right. Enough already.\x02\x03",
+"#0000FAnyway... I heard that you've really come into\x01",
+"your own as a baker, Oscar. \x02\x03",
+"Wendy mentioned in one of her letters that the \x01",
+"breads you come up with every month draw\x01",
+"people in by the droves.\x02",
+
+"I wouldn't go that far. A baker's journey is a \x01",
+"long and winding one, so I can't sit back \x01",
+"and get comfortable just yet.\x02",
+
+"I'm sure she'll be fine. Some things don't \x01",
+"change, but she's gotten pretty good with\x01",
+"controllin' her strength these days. \x02",
+
+"I imagine they'll get off with just a lil' \x01",
+"scolding bump.\x02",
+
+"Probably something to do with that law firm next \x01",
+"to us. Their clients tend to stop by here to grab a \x01",
+"bite on the way.\x02",
+
+"Either way, I'm grateful. It's my honor to be able\x01",
+"to wipe the scowls off those old men's faces \x01",
+"when they bite into my creations.\x02",
+
+"#0000FHey, I heard that you've really come into\x01",
+"your own as a baker, Oscar. \x02\x03",
+"Wendy mentioned in one of her letters that the \x01",
+"breads you come up with every month draw\x01",
+"people in by the droves.\x02",
+
+"A baker's journey is a long and winding one, \x01",
+"so I can't sit back and get comfortable just yet.\x02",
+
+"I've gotten used to you seeing you pop in \x01",
+"all the time. Did something come up? \x02",
+
+"Hey. I heard all about how you guys gathered \x01",
+"up some much-needed ingredients for us. \x02",
+
+"Excellent! Thanks for really lending us a hand. \x01",
+"Now we can focus all our attention on baking. \x02",
+
+"That sounds promising. You all seem like \x01",
+"a dependable bunch. \x02",
+
+"Haha, all right. I may just have to take you\x01",
+"up on that in the future. \x02",
+
+"I thought the flavors were outstanding, but I \x01",
+"wonder if it had to do with Oscar's reaction? \x02",
+
+"You smell that? Bennet's gone and baked another\x01",
+"loaf of bread with a just sensational aroma. \x02",
+
+"It fills this baker's heart with joy to see how\x01",
+"much people care about our bread. Gotta\x01",
+"hand it to Oscar for all his hard work. \x02",
+
+"We were even featured in the Crossbell Times \x01",
+"recently, and it was all thanks to his efforts.\x02",
+
+"In short, the three of us will have a little \x01",
+"sampling contest amongst ourselves and\x01",
+"vote on which wowed us the most. \x02",
+
+"I'm at a loss. Truth be told, I'd like to do \x01",
+"some baking myself.\x02",
+
+"You put in some serious physical labor as a \x01",
+"baker. Even I'm starting to feel worn out right\x01",
+"about now. \x02",
+
+"Ahh, it's nice that they still play the same, \x01",
+"old parade songs.\x02",
+
+"We make it through this last rush here, \x01",
+"and we'll be at the finish line. You got\x01",
+"this, Morges. \x02",
+
+"Do my eyes deceive me? Is that Bennet handling \x01",
+"the stall? She usually hates having to entertain\x01",
+"any of our patrons.\x02",
+
+"...You're changing so much that Daddy's getting \x01",
+"worried, dammit.\x02",
+
+"Oscar's got a whole lot of talent, and he's a \x01",
+"handsome, young fella to boot.\x02",
+
+"It's not right of me to keep leaving it up \x01",
+"to Oscar.\x02",
+
+"It goes beyond the ingredients he uses or knowing\x01",
+"his way around the oven. He's got a natural feel \x01",
+"for combining different baking techniques.\x02",
+
+"He has raw talent. Sure, he puts in the work,\x01",
+"but above all else, he has an extraordinary \x01",
+"feel for the craft.\x02",
+
+"I don't think there's anything else I can \x01",
+"teach him.\x02",
+
+"That fragrance is your indicator of whether \x01",
+"or not you're drawing out the best possible \x01",
+"flavors from your ingredients.\x02",
+
+"I actually started monthly signature creations\x01",
+"as a way to experiment with how to push our\x01",
+"ingredients to their fullest flavor potential. \x02",
+
+"Well, I suppose I can't deny that I've also \x01",
+"been doing it because it's such a hit with \x01",
+"the customers.\x02",
+
+"We may be a bakery, but we have a little cafe\x01",
+"space set up right out front.  \x02",
+
+"Pretty handy if you want to sit down and grab\x01",
+"a bite right here and now. Go ahead and make\x01",
+"yourselves comfortable. \x02",
+
+"We've also got several beverages on hand, \x01",
+"so go on and give 'em a try if they pique \x01",
+"your interest. \x02",
+
+"Welcome! Feel free to take your time and \x01",
+"look around. We've got our latest monthly\x01",
+"signature bread out on the shelves, too.\x02",
+
+"Please, get them to me as fast as you can. \x01",
+"I need them for my new secret bread. Oh.\x01",
+"And don't tell Oscar about this, either. \x02",
+
+"It may be a little bit too late, but...I'm not \x01",
+"going to worry about that.\x02",
+
+"Heheh. You just wait, Oscar... I swear I'll \x01",
+"beat you this time. \x02",
+
+"I've folded loads of rich honey and walnuts \x01",
+"into the dough. \x02",
+
+"I'm still working out the kinks in the baking\x01",
+"process, but... Heheh, I feel I've got a good\x01",
+"shot of beating him this time around. \x02",
+
+"I hope you'll be looking forward to it. \x01",
+"I promise it's going to be naantastic!\x02",
+
+"Anyway, is the kitchen open yet? I've got\x01",
+"to get in there already. \x02",
+
+"I'd be fine with just using it for a \x01",
+"short while!\x02",
+
+"Grr... This is why I hate my dad! Why's he \x01",
+"have to be such a numbskull?!\x02",
+
+"All sorts of goods are more readily available \x01",
+"since the introduction of the Transcontinental \x01",
+"Railroad.\x02",
+
+"Ugh, I'll admit Oscar IS talented. He's risen up\x01",
+"to every challenge thrown his way and managed\x01",
+"to win Dad's approval in just two years. \x02",
+
+"Dad welcomed him on with open arms, and he's \x01",
+"been training here ever since.\x02",
+
+"Now he's gone and become Dad's bona fide,\x01",
+"favorite apprentice. \x02",
+
+"How dare he pass me up... They both have \x01",
+"another thing coming if they think I'm just \x01",
+"going to sit back and let him outshine me.\x02",
+
+"Please head over to the register if you're \x01",
+"ready to be rung up.\x02",
+
+"Our monthly signature bread is one of \x01",
+"our biggest hits, always flying right off \x01",
+"the shelves... \x02",
+
+"I'm the poster girl of this shop. I should be \x01",
+"the one in charge of its creation by now...\x01",
+"*grumble*\x02",
+
+"I should be the one taking charge of our \x01",
+"monthly signature bread by now... *grumble*\x02",
+
+"Oooh, I could only imagine what it is... \x01",
+"When will they hurry up and come out with\x01",
+"their new bread already? I can hardly wait!\x02",
+
+"I finally took home some bread from here\x01",
+"and forced my parents to try it. \x02",
+
+"And now, they've finally seen the light!\x01",
+"The reason why I can't resist coming in\x01",
+"every day. \x02",
+
+"Hmm, they've got a butter bread out this \x01",
+"month... A worthy option... \x02",
+
+"They're so strict! They forbade me from\x01",
+"eating out anymore. \x02",
+
+"Honestly, where's the harm in it? How could \x01",
+"something this delicious be anything but \x01",
+"oh-so right?\x02",
+
+"(And then, he thanked me for all the support \x01",
+"I've shown the bakery by coming in so \x01",
+"much--like it meant a lot to him!)\x02",
+
+"She talks so much about how she has zero \x01",
+"interest in 'human beings' that it's...kind of \x01",
+"worrying.\x02",
+
+"This bakery's signature creations are to \x01",
+"die for. My feet just keep carrying me \x01",
+"back here.\x02",
+
+"There's not much I can do about it. Their bread\x01",
+"is too delicious not to sneak right on back. \x02",
+
+"Oscar is one of the most gorgeous guys I've \x01",
+"ever seen, he's like a whole meal!\x02",
+
+"And he's got so much more than just his looks, \x01",
+"too. He's like a ray of pure sunshine and never\x01",
+"seems to let anything faze him. \x02",
+
+"Oh, but don't get me wrong! He's still \x01",
+"super-duper charming as a baker all\x01",
+"the same!\x02",
+
+"Oscar is one of the most gorgeous guys I've \x01",
+"ever seen, he's like a whole meal!\x02",
+
+"I have this friend who's, well, let's just \x01",
+"say 'eccentric.'\x02",
+
+"She's always on the move, skipping town the \x01",
+"second she can to roam all over the place.\x02",
+
+"*sigh* Tilulu's skipped town for another one of \x01",
+"her travel sprees. Looks like I won't be seeing \x01",
+"any of her today, either.\x02",
+
+"It looks like this bakery releases a new kind of \x01",
+"bread every month.\x02",
+
+"I actually came to West Street to meet up \x01",
+"with a friend.\x02",
+
+"Ah. I'll have to remember to pick up plenty of\x01",
+"souvenirs for the family and friends before I \x01",
+"pack it up.\x02",
+
+"Just get a load of this place. There's \x01",
+"scrumptious-looking bread as far as\x01",
+"the eye can see. \x02",
+
+"With that checked off my list, I think I'll just\x01",
+"take it easy and stroll around for the rest\x01",
+"of the festival. \x02",
+
+"I've held off from ordering room service at the\x01",
+"hotel in favor of coming here. \x02",
+
+"It puts me in much more of the festival mood \x01",
+"to check out all the little eateries Crossbell \x01",
+"has to offer!\x02",
+
+"Dad has this habit of trotting off all over \x01",
+"the place on his own.\x02",
+
+"I can't bear to see a frown on her little face, \x01",
+"so I ordered the missing volumes for the store.\x02",
+
+"Wanna give them a go, too? They might just get \x01",
+"their hooks in ya. Fair warning, though. We only \x01",
+"have a few volumes in stock.\x02",
+
+"What a horrifying thought. I'll have to warn \x01",
+"Momo to be extra careful when she's outside.\x02",
+
+"I wonder if she's finally starting to come \x01",
+"out of her shell.\x02",
+
+"I've been hearing so many rumors of unnerving\x01",
+"incidents lately that this has been a lone bright\x01",
+"spot for me. \x02",
+
+"I hear they're stirring up trouble here in \x01",
+"town again.\x02",
+
+"Momo's still so young, I'll need to keep a\x01",
+"close eye on her to keep her safe. \x02",
+
+"I've heard stories from some of the other \x01",
+"shop owners that Revache has been causing \x01",
+"problems for them.\x02",
+
+"It's best to unwind and take it easy after \x01",
+"you've partied for five days straight. \x02",
+
+"My workload is going to be tough, but it's \x01",
+"only for today. I'll manage.\x02",
+
+"I wasn't really interested myself, so I didn't \x01",
+"even bother to check the schedule.\x02",
+
+"#0001F(Hmm, maybe Tallys will know something \x01",
+"about Colin...) \x02",
+
+"I was so far away, I don't think I can really\x01",
+"be of any help to you. \x02",
+
+"Sorry to say it, but I wouldn't be able to tell\x01",
+"you if I saw a kid or not. \x02",
+
+"I sent them off to tour around the city to their\x01",
+"heart's content, given this is a once-in-a-year \x01",
+"event. \x02",
+
+"You know, I wasn't planning on doing anything \x01",
+"special for the Anniversary Festival...\x02",
+
+"But this year's festival is on a whole \x01",
+"different scale...\x02",
+
+"Huh. That would mean Crossbell was founded\x01",
+"when my grandpa was still just a young kid. \x02",
+
+"He looks as diligent of a watchdog as everyone's \x01",
+"been saying, but he's got a bit of an attitude to\x01",
+"match that size of his.\x02",
+
+"I tried to call for him a minute ago, but he just\x01",
+"stuck up his nose at me and strutted away. \x02",
+
+"Call it a hunch, but I'm thinking that she just\x01",
+"might want to see 'em. \x02",
+
+"She's barely ever spoke of it, but I think she \x01",
+"dreamed of joining the troupe when she was\x01",
+"but a little girl. \x02",
+
+"Throw in the fact that he also runs a family \x01",
+"business, and I can't help but feel a kinship\x01",
+"with him. \x02",
+
+"Harold stopped by to let me know about \x01",
+"the new price for honey.\x02",
+
+"Maybe I should discuss my next shipment with \x01",
+"him while he's still here.\x02",
+
+"I've known Harold for about three years now,\x01",
+"and he's always been scrupulously diligent.\x01",
+"Never once missing a beat.  \x02",
+
+"On that note, I'd better ask him about\x01",
+"the next shipment while he's still around. \x02",
+
+"Honey's been selling quite well these days, so\x01",
+"he warned me that we may see a price hike\x01",
+"in the near future. \x02",
+
+"I can always count on him to give me advanced \x01",
+"notice on those sort of things. He may be a \x01",
+"shrewd businessman, but he's got a good heart. \x02",
+
+"I'm grateful for all the insider information \x01",
+"he's willing to give me. \x02",
+
+"Thanks to his tip, I've stocked up all the\x01",
+"honey I need ahead of that price hike. \x02",
+
+"She can be somewhat difficult at times. She'll \x01",
+"run and hole herself upstairs whenever a \x01",
+"customer walks in.\x02",
+
+"She's such a shy girl that I'm worried if she's \x01",
+"getting along with the other kids or not.\x02",
+
+"Could you also take a look at this? It's for \x01",
+"next month's shipment.\x02",
+
+"I went to go check out a shop over in \x01",
+"Central Square...\x02",
+
+"#0305F(You think she's talkin' about the Special \x01",
+"Support Section building?)\x02",
+
+"Apparently, someone's moved into that old \x01",
+"building over in Central Square. I must've \x01",
+"completely missed it.\x02",
+
+"Chop a little bit of this, stir a little bit \x01",
+"of that... ♪\x02",
+
+"Rather than throwing out our unsold produce, we\x01",
+"end up using it for our own dishes. Wouldn't \x01",
+"want to waste food, now would we?\x02",
+
+"I looked around at all the stalls with Ryu on \x01",
+"the last day of the Anniversary Festival.\x02",
+
+"I hope that we can play together again \x01",
+"sometime...\x02",
+
+"I looked around at all the stalls with Ryu on \x01",
+"the last day of the Anniversary Festival.\x02",
+
+"I hope that we can play together again \x01",
+"sometime...\x02",
+
+//appears twice
+"I wanna play with him again... I wonder if \x01",
+"he'll play with me...\x02",
+
+"We got some new items in, so I'm putting\x01",
+"them on the shelves. \x02",
+
+"Every time I see him hunched over his work,\x01",
+"so, so much of it--I'm determined to study \x01",
+"harder and harder!\x02",
+
+"I hope I can start taking on more of his \x01",
+"workload for him soon. I want to help\x01",
+"as much as I can.\x02",
+
+"That's it. I'll have to start preparing his \x01",
+"meals for him, so he has no excuse.\x02",
+
+"Heehee. He's been fixated on that building\x01",
+"for the longest time. \x02",
+
+"I should get back soon to keep him \x01",
+"some company.\x02",
+
+"I tried greeting Momo when I came in, but the\x01",
+"poor thing looked so uncomfortable, and then\x01",
+"she just up and ran away. \x02",
+
+"#0100F(It's pretty encouraging to know that \x01",
+"people support us.)\x02",
+
+"Heehee. It's been quite some time since they\x01",
+"had a chance to catch up with each other. \x01",
+"I wouldn't want to be a third wheel, you know?\x02",
+
+"You really know how to keep a guy waiting! \x01",
+"What's it been, like a year since we last \x01",
+"hung out?\x02",
+
+"Haha! I blame the fact that we kept sending\x01",
+"letters to each other. It never really felt like \x01",
+"you were gone for that long, y'know?\x02",
+
+"Something wrong? I can just see the gears\x01",
+"spinning around in your head. \x02",
+
+"Then take this as a reunion gift from \x01",
+"yours truly.\x02",
+
+//appears twice
+"#0000FWow, this is a nice gift. It even has plenty\x01",
+"of room to write down variations of different\x01",
+"recipes. \x02",
+
+//appears twice
+"And with all of you guys sharing it, I'm sure \x01",
+"each of you will come up with your own spin \x01",
+"on things. \x02",
+
+"#0303FErr... Well, I can only roast and boil stuff. \x01",
+"You know, food you'd have campin' \x01",
+"out in the wilderness.\x02",
+
+"#6P#0100FWell, you certainly can't bake without\x01",
+"any ingredients. \x02",
+
+"#11PYou could say that again. So, you guys mind \x01",
+"lending me a hand? \x02",
+
+"#6P#0304FThat's it? We can snatch those up right on\x01",
+"the outskirts of the city, no sweat. \x02",
+
+"#11PYou've always had my back when I've been in \x01",
+"trouble, ever since we were kids.\x02",
+
+"#0300F#11P(Well, if you ask me, it sounds like she's \x01",
+"big rivals with our buddy Oscar over there.)\x02\x03",
+
+"#5PWait here just a sec, okay? I'm sure we \x01",
+"have some behind the counter somewhere.\x02",
+
+"#12P#0006FYou're all out...? *sigh* I suppose that's \x01",
+"our luck.\x02",
+
+"#12P#0603FI should hardly need to remind you that we \x01",
+"don't have the time to stand around and wait \x01",
+"for them. \x02\x03",
+
+"#0300FHell yeah! Why let the bracers suck up all \x01",
+"the glory when we can do it no sweat? \x02",
+
+"#12P#0606F(It seems my efforts at rushing them\x01",
+"have backfired horribly. I don't know \x01",
+"what else I expected.)\x02",
