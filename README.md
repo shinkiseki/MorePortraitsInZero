@@ -2,7 +2,7 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Last updated: 2022-10-09  
+Last updated: 2022-10-13  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
@@ -18,10 +18,10 @@ Watch the release trailer here: Coming soon!
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=gPqF-cjxZ3c) of this mod are labeled as new.
 *   **Wendy (completed files: 2/2)**
 *   **Chaco (2/2)**
-*   Scott (4/14)
-*   Wenzel (5/11)
-*   Lynn (3/11)
-*   Aeolia (4/11)
+*   Scott (6/14)
+*   Wenzel (6/11)
+*   Lynn (5/11)
+*   Aeolia (5/11)
 *   Pierre (0/2)
 *   Mireille (0/3)
 *   Sully (0/5)
@@ -57,6 +57,7 @@ Coming soon!
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
+*   2022-10-13: Updated scena files to correct several typos present in the original files. More files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file.
 *   2022-10-11: Added a new portrait for Aeolia. Updated several Aeolia portraits. Updated scena files to correct several typos present in the original files. Files for Scott, Wenzel, Lynn, and Aeolia partially completed. Reorganized known text issues file and added newly discovered issues.
 *   2022-10-09: Released v0.1.0. Added a new portrait for Chaco. New character #1 revealed (Fernand). Files for Wendy, Chaco, and Fernand completed. Updated README to include credits section and instructions for reporting issues, and installation instructions. Added list of known text issues fixed in this mod for documentation.
 *   2022-10-07: Added all portraits (face) and half-busts (visual).
