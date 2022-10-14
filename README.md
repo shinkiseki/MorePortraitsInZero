@@ -18,8 +18,8 @@ Watch the release trailer here: Coming soon!
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=gPqF-cjxZ3c) of this mod are labeled as new.
 *   **Wendy (completed files: 2/2)**
 *   **Chaco (2/2)**
-*   Scott (6/14)
-*   Wenzel (6/11)
+*   Scott (8/14)
+*   Wenzel (8/11)
 *   Lynn (5/11)
 *   Aeolia (5/11)
 *   Pierre (0/2)

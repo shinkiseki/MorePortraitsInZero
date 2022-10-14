@@ -990,138 +990,189 @@ c1010.py (Bracer Guild)
 c103c.py (Long Lao)
 
 "We've got a crowd to contend with today, \x01",
-            "but from tomorrow on, it'll just be our \x01",
-            "regulars again. \x02",
-			
-			"Hmm? Hmmmm? You there, what'll it be? \x01",
-            "Come on, out with it!\x02",
-			
-			"We don't start checking in guests to the inn \x01",
-            "until 5PM. \x02",
-			
-			"I made Shanshan go clean the guest rooms \x01",
-            "for now.\x02",
-			
-			"W-Weird... I just felt a chill run down \x01",
-            "my spine...\x02",
-			
-			"The Anniversary Festival always stirs up \x01",
-            "too much noise and commotion.\x02",
-			
-			"All this noise in here reminds me of my \x01",
-            "time back in the Eastern Quarter. \x02",
-			
-			"The Eastern Quarter was always this \x01",
-            "boisterous, too.\x02",
-			
-			"Watching Master Zhang Hui coiled and ready to \x01",
-            "snap was pretty entertaining, to be honest.\x02",
-			
-			"My hands are full right now, so I'd appreciate\x01",
-            "if you let Master Zhang Hui know when you're\x01",
-            "ready to order. \x02",
-			
-			"The customers were all riled up talking about \x01",
-            "it. What the heck happened over there?\x02",
-			
-			"I can't imagine why. There's hardly a speck\x01",
-            "of dust in those rooms right now. \x02",
-			
-			"Oh, well. Getting it all spick and span \x01",
-            "shouldn't take any time at all.\x02",
-			
-			"*sigh* I would've liked to see the parade.\x01",
-            "I wonder if it's over already? \x02",
-			
-			"Oh, I bet Rixia's performing right this very \x01",
-            "second. I hope she's absolutely killing it\x01",
-            "out there.\x02",
-			
-			"I'm sure the audience will shower her in \x01",
-            "all kinds of applause!\x02",
-			
-			"All right, time to get to work. I'll need to \x01",
-            "make the rooms perfectly spick and span\x01",
-            "for our guests. \x02",
-			
-			"Phew... Dealing with this huge rush is\x01",
-            "really taking it out of me. \x02",
-			
-			"Meanwhile, I'm headed off to Calvard just like\x01",
-            "any other day. \x02",
-			
-			"Us delivery guys don't really get vacations, \x01",
-            "y'know?\x02",
-			
-			"Aw, damn. This crowd's going to make it\x01",
-            "impossible to drive down the main street. \x02",
-			
-			"Good grief. It looks like I'm going to be \x01",
-            "running real behind on today's deliveries. \x02",
-			
-			"I'm pretty sure our company loaned out\x01",
-            "one of our drivers for the parade. \x02",
-			
-			"It was quite a sight... This is probably the\x01",
-            "first time any road's been completely \x01",
-            "clogged up with orbal cars. \x02",
-			
-			"I guess it's understandable with how many people\x01",
-            "own cars in Crossbell these days. And buses \x01",
-            "are pretty commonplace in the Republic. \x02",
-			
-			"I heard the road from Calvard is absolutely\x01",
-            "jam-packed. \x02",
-			
-			"I couldn't believe how many tourists \x01",
-            "turned out...\x02",
-			
-			"Roose was right! There's no way a tourist-aimed \x01",
-            "business in Crossbell could fail!\x02",
-			
-			"Wow. There really are a lot of people \x01",
-            "out here.\x02",
-			
-			"But I'll admit I was in the wrong. This is \x01",
-            "a whole lot of people.\x02",
-			
-			"Man, my buddy keeps grumbling under \x01",
-            "his breath.\x02",
-			
-			"Like, what kind of goods pique their interest,\x01",
-            "what stands out as the cream of the crop--\x01",
-            "that sort of thing. \x02",
-			
-			"Hmm, if I'm being honest with myself,\x01",
-            "I really would like to dive into the \x01",
-            "entrepreneurial world.\x02",
-			
-			"Hey, Puck, check it out. Look at all those \x01",
-            "people out here.\x02",
-			
-            "If we opened up a shop, I'm sure it'd be \x01",
-            "a huge hit.\x02",
-			
-			"*sluuurp* Man, the food here is a trip to \x01",
-            "flavor heaven. \x02",
-			
-			"That waitress is super cute, too. Heheh, \x01",
-            "this place just makes me never wanna leave. \x02",
-			
-			"Note to self: Don't venture out into that wild \x01",
-            "mess without a map. \x02",
-			
-			"I actually just finished giving my report on \x01",
-            "that request.\x02",
-			
-			"I've still got a long way to go before I\x01",
-            "ever hit his league. \x02",
-			
-			"Hmm, I see. That's a bit disappointing, though. \x01",
-            "I'm sure they'd be excited to  hear from you.\x02",
-			
-			"What about you, Kilika? What have you been \x01",
-            "up to these past eight years?\x02",
-			
-			"#3404FOh, you know. Let's just say that there hasn't \x01",
-            "been a dull moment in my life.\x02",
+"but from tomorrow on, it'll just be our \x01",
+"regulars again. \x02",
+
+"Hmm? Hmmmm? You there, what'll it be? \x01",
+"Come on, out with it!\x02",
+
+"We don't start checking in guests to the inn \x01",
+"until 5PM. \x02",
+
+"I made Shanshan go clean the guest rooms \x01",
+"for now.\x02",
+
+"W-Weird... I just felt a chill run down \x01",
+"my spine...\x02",
+
+"The Anniversary Festival always stirs up \x01",
+"too much noise and commotion.\x02",
+
+"All this noise in here reminds me of my \x01",
+"time back in the Eastern Quarter. \x02",
+
+"The Eastern Quarter was always this \x01",
+"boisterous, too.\x02",
+
+"Watching Master Zhang Hui coiled and ready to \x01",
+"snap was pretty entertaining, to be honest.\x02",
+
+"My hands are full right now, so I'd appreciate\x01",
+"if you let Master Zhang Hui know when you're\x01",
+"ready to order. \x02",
+
+"The customers were all riled up talking about \x01",
+"it. What the heck happened over there?\x02",
+
+"I can't imagine why. There's hardly a speck\x01",
+"of dust in those rooms right now. \x02",
+
+"Oh, well. Getting it all spick and span \x01",
+"shouldn't take any time at all.\x02",
+
+"*sigh* I would've liked to see the parade.\x01",
+"I wonder if it's over already? \x02",
+
+"Oh, I bet Rixia's performing right this very \x01",
+"second. I hope she's absolutely killing it\x01",
+"out there.\x02",
+
+"I'm sure the audience will shower her in \x01",
+"all kinds of applause!\x02",
+
+"All right, time to get to work. I'll need to \x01",
+"make the rooms perfectly spick and span\x01",
+"for our guests. \x02",
+
+"Phew... Dealing with this huge rush is\x01",
+"really taking it out of me. \x02",
+
+"Meanwhile, I'm headed off to Calvard just like\x01",
+"any other day. \x02",
+
+"Us delivery guys don't really get vacations, \x01",
+"y'know?\x02",
+
+"Aw, damn. This crowd's going to make it\x01",
+"impossible to drive down the main street. \x02",
+
+"Good grief. It looks like I'm going to be \x01",
+"running real behind on today's deliveries. \x02",
+
+"I'm pretty sure our company loaned out\x01",
+"one of our drivers for the parade. \x02",
+
+"It was quite a sight... This is probably the\x01",
+"first time any road's been completely \x01",
+"clogged up with orbal cars. \x02",
+
+"I guess it's understandable with how many people\x01",
+"own cars in Crossbell these days. And buses \x01",
+"are pretty commonplace in the Republic. \x02",
+
+"I heard the road from Calvard is absolutely\x01",
+"jam-packed. \x02",
+
+"I couldn't believe how many tourists \x01",
+"turned out...\x02",
+
+"Roose was right! There's no way a tourist-aimed \x01",
+"business in Crossbell could fail!\x02",
+
+"Wow. There really are a lot of people \x01",
+"out here.\x02",
+
+"But I'll admit I was in the wrong. This is \x01",
+"a whole lot of people.\x02",
+
+"Man, my buddy keeps grumbling under \x01",
+"his breath.\x02",
+
+"Like, what kind of goods pique their interest,\x01",
+"what stands out as the cream of the crop--\x01",
+"that sort of thing. \x02",
+
+"Hmm, if I'm being honest with myself,\x01",
+"I really would like to dive into the \x01",
+"entrepreneurial world.\x02",
+
+"Hey, Puck, check it out. Look at all those \x01",
+"people out here.\x02",
+
+"If we opened up a shop, I'm sure it'd be \x01",
+"a huge hit.\x02",
+
+"*sluuurp* Man, the food here is a trip to \x01",
+"flavor heaven. \x02",
+
+"That waitress is super cute, too. Heheh, \x01",
+"this place just makes me never wanna leave. \x02",
+
+"Note to self: Don't venture out into that wild \x01",
+"mess without a map. \x02",
+
+"I actually just finished giving my report on \x01",
+"that request.\x02",
+
+"I've still got a long way to go before I\x01",
+"ever hit his league. \x02",
+
+"Hmm, I see. That's a bit disappointing, though. \x01",
+"I'm sure they'd be excited to  hear from you.\x02",
+
+"What about you, Kilika? What have you been \x01",
+"up to these past eight years?\x02",
+
+"#3404FOh, you know. Let's just say that there hasn't \x01",
+"been a dull moment in my life.\x02",
+
+c1310.py (IBC)
+
+"#0203F('Newfangled gadgets'...? Speaking\x01",
+"like that, you would think he was an\\out-of-touch elderly man.)\x02",
+
+"#0103FI opened it because it made for useful study\x01",
+"material. Political movements are often\x01",
+"reflected in investment patterns. \x02\x03",
+
+"#0101F(It sounds like he was quite a\x01",
+"familiar face at the IBC.) \x02",
+
+"#12200278V#5POh, Ms. MacDowell. It's good to see you again. \x01",
+"I see you've brought your SSS companions, too.\x02",
+
+"#12200279V#5PThank you for helping us test our new service \x01",
+"the other day.\x02",
+
+"#12200290V#0101FBut even so, we'd still like to meet with him. \x01",
+"Is he available today?\x02",
+
+"#12200291V#5PActually, it just so happens he's in his \x01",
+"office right now.\x02",
+
+"#12200294V#5POh, Ms. MacDowell. It's good to see you again. \x01",
+"I see you've brought your SSS companions, too.\x02",
+
+"#12200298V#6P#0104FHello, Lanfei. There's something \x01",
+"I'd like to ask you.\x02\x03",
+
+"#12200303V#5PActually, it just so happens he's in his \x01",
+"office right now.\x02",
+
+"#12200313V#0101FBut even so, we'd still like to meet with him. \x01",
+"Is he available today?\x02",
+
+"#12200314V#5PActually, it just so happens he's in his \x01",
+"office right now.\x02",
+
+"#12200322V#0012F(Seriously... It's almost like we're from \x01",
+"completely different worlds.)\x02",
+
+"#12200329V#0002FSounds like a plan. Thanks, Elie, \x01",
+"you really helped us out.\x02",
+
+c1430.py (Guillaume Factory)
+
+"But last year, they decided to change the place \x01",
+"into some funny 'Orbal Store' or somethin' outta\x01",
+"the blue.\x02",
