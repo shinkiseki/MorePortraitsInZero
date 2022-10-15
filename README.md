@@ -1,4 +1,4 @@
-# MorePortraitsInZero
+# More Portraits in Zero
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
