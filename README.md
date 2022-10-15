@@ -2,7 +2,7 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v0.2.0 (released 2022-10-14)
+Latest release: v0.2.0 (released 2022-10-14)  
 Last updated: 2022-10-14  
 Compatible with: Trails from Zero v1.3.7  
   
@@ -63,13 +63,13 @@ For those comfortable with GitHub, please report and label any issues. The most 
 GitHub not your style? Feel free to message me via Reddit or Twitter. I am also around on Discord via several Falcom-related servers, including The Geofront.
 
 For those using GitHub, please report these (or other) issues if they are discovered (and use the provided label):
-*   [Text] There are typos, missing dialogue, or some other issue with the text. Pretty self-explanatory.
-*   [Portrait] The wrong character portrait is used. This might be that the wrong character's portrait is appearing, or the right character has an expression inappropriate for their dialogue. The latter may be subjective to an extent, but feedback is always welcome.
-*   [Portrait] The character might be missing a portrait altogether. This may be intentional (characters off-screen do not have portraits, for instance), but for the most part, the supported characters should have portraits.
-*   [Text box] The text box may close and reopen between lines of dialogue, instead of remaining open. For characters without portraits, each line of dialogue creates a new text box; in other words, after each line, the text box closes, and another one opens to display the next line. For characters with portraits, this is different; a single text box opens for the entire set of dialogue, only closing after the last line. As part of the mod, the intent is for characters with added portraits to have their text boxes stay open for their entire dialogue.
-*   [Text box] The text box size looks weird. As noted with the previous point, a single text box opens for an entire set of dialogue, rather than a new text box for each line. The text box will be long enough to accommodate the longest line of text; consequently, shorter lines of text may look weird. To an extent, this can be addressed by shifting words around to make each line approximately the same length, thus better filling out the text box.
-*   [Non-text box bug] While unlikely, it's possible that the mod introduces some game-impacting bug.
-*   [Misc.] There's probably something I've forgotten to list--toss any miscellaneous issues here, and I'll sort it out.
+*   **[Text]** There are typos, missing dialogue, or some other issue with the text. Pretty self-explanatory. While the primary focus is on text issues created by the mod itself, typos from the original game are also okay to report.
+*   **[Portrait]** The wrong character portrait is used. This might be that the wrong character's portrait is appearing, or the right character has an expression inappropriate for their dialogue. The latter may be subjective to an extent, but feedback is always welcome.
+*   **[Portrait]** The character might be missing a portrait altogether. This may be intentional (characters off-screen do not have portraits, for instance), but for the most part, the supported characters should have portraits.
+*   **[Text box]** The text box may close and reopen between lines of dialogue, instead of remaining open. For characters without portraits, each line of dialogue creates a new text box; in other words, after each line, the text box closes, and another one opens to display the next line. For characters with portraits, this is different; a single text box opens for the entire set of dialogue, only closing after the last line. As part of the mod, the intent is for characters with added portraits to have their text boxes stay open for their entire dialogue.
+*   **[Text box]** The text box size looks weird. As noted with the previous point, a single text box opens for an entire set of dialogue, rather than a new text box for each line. The text box will be long enough to accommodate the longest line of text; consequently, shorter lines of text may look weird. To an extent, this can be addressed by shifting words around to make each line approximately the same length, thus better filling out the text box.
+*   **[Non-text box bug]** While unlikely, it's possible that the mod introduces some game-impacting bug.
+*   **[Misc.]** There's probably something I've forgotten to list--toss any miscellaneous issues here, and I'll sort it out.
 
 ## The creation process
 Coming soon!
