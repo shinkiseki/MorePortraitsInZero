@@ -2,7 +2,8 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Last updated: 2022-10-13  
+Latest release: v0.2.0 (released 2022-10-14)
+Last updated: 2022-10-14  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
@@ -18,10 +19,10 @@ Watch the release trailer here: Coming soon!
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=gPqF-cjxZ3c) of this mod are labeled as new.
 *   **Wendy (completed files: 2/2)**
 *   **Chaco (2/2)**
-*   Scott (8/14)
-*   Wenzel (8/11)
-*   Lynn (5/11)
-*   Aeolia (5/11)
+*   **Scott (14/14)**
+*   **Wenzel (11/11)**
+*   **Lynn (11/11)**
+*   **Aeolia (11/11)**
 *   Pierre (0/2)
 *   Mireille (0/3)
 *   Sully (0/5)
@@ -32,8 +33,30 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   New character #3 (0/3)
 *   New character #4 (0/3)
 
+## Gameplay screenshots
+### Wendy
+![gameplay_screenshot_wendy_01](/gameplay_screenshots/gameplay_screenshot_wendy_01.jpg)
+
+### Chaco
+![gameplay_screenshot_chaco_01](/gameplay_screenshots/gameplay_screenshot_chaco_01.jpg)
+
+### Scott
+![gameplay_screenshot_scott_01](/gameplay_screenshots/gameplay_screenshot_scott_01.jpg)
+
+### Wenzel
+![gameplay_screenshot_wenzel_01](/gameplay_screenshots/gameplay_screenshot_wenzel_01.jpg)
+
+### Lynn
+![gameplay_screenshot_lynn_01](/gameplay_screenshots/gameplay_screenshot_lynn_01.jpg)
+
+### Aeolia
+![gameplay_screenshot_aeolia_01](/gameplay_screenshots/gameplay_screenshot_aeolia_01.jpg)
+
+### Fernand
+![gameplay_screenshot_fernand_01](/gameplay_screenshots/gameplay_screenshot_fernand_01.jpg)
+
 ## Reporting issues
-If there is a bug encountered over the course of using this mod, I would appreciate it if it is reported so that I may make the proper fixes.
+If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
 
 For those comfortable with GitHub, please report and label any issues. The most helpful way to report an issue is to provide a screenshot and note when/where this is occurring. This will help identify the issue, then test that the issue has been resolved.
 
@@ -57,6 +80,7 @@ Coming soon!
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
+*   2022-10-14: Released v0.2.0. Updated scena files to correct several typos present in the original files, including an error causing "Ozelle" to be named "Zell" in some instances. Files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file. Added folder of sample images and added images to README.
 *   2022-10-13: Updated scena files to correct several typos present in the original files. More files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file.
 *   2022-10-11: Added a new portrait for Aeolia. Updated several Aeolia portraits. Updated scena files to correct several typos present in the original files. Files for Scott, Wenzel, Lynn, and Aeolia partially completed. Reorganized known text issues file and added newly discovered issues.
 *   2022-10-09: Released v0.1.0. Added a new portrait for Chaco. New character #1 revealed (Fernand). Files for Wendy, Chaco, and Fernand completed. Updated README to include credits section and instructions for reporting issues, and installation instructions. Added list of known text issues fixed in this mod for documentation.

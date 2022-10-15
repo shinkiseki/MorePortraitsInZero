@@ -1176,3 +1176,332 @@ c1430.py (Guillaume Factory)
 "But last year, they decided to change the place \x01",
 "into some funny 'Orbal Store' or somethin' outta\x01",
 "the blue.\x02",
+
+c1440.py (Neinvalli Exchange)
+
+"Goddess, what an annoying woman. \x01",
+"I ought to just cut out her tongue already. \x02",
+
+"Aidios... It's going to take even longer to \x01",
+"keep track of inventory.\x02",
+
+"Goddess, what an annoying woman. \x01",
+"I ought to just cut out her tongue already. \x02",
+
+"You're telling me there was a bomb threat \x01",
+"at the airport?\x02",
+
+"Heh. I don't know who's behind it, but they've \x01",
+"sure got some balls.\x02",
+
+"You're telling me there was a bomb threat \x01",
+"at the airport?\x02",
+
+"I suppose I'll just have to leave it in the \x01",
+"perfectly capable hands of the CPD.\x02",
+
+"#0305F(Hah. Find that hard to believe, coming \x01",
+"from a black market broker...) \x02",
+
+"#0300F(Guess business must be going pretty well \x01",
+"for 'em.) \x02",
+
+"You know, I was pretty sure Dudley would\x01",
+"stop by, given that incident earlier. \x02",
+
+"#0001F(Dudley...is a bit tied up at the moment, \x01",
+"I think.)\x02",
+
+"#0001FI know it's an ask, but...does your store \x01",
+"happen to deal in any sort of hard drugs? \x02",
+
+"Oh, you mean that miracle pill that's supposed \x01",
+"to 'grant wishes and bestow happiness,' right?\x01",
+"Word about that thing's been spreading all over.\x02",
+
+"He has a lot more gray hairs ever since \x01",
+"joining Revache.\x02",
+
+"#0301FYeah. Last thing we wanna do is speak that \x01",
+"out into the world...\x02",
+
+"#0200FExcuse me, ma'am. Would you possibly have\x01",
+"any information that might assist us in our\x01",
+"investigation? \x02",
+
+"Nope. I got nothin' for you. But, my money's \x01",
+"on the Revache's goons being behind that raid.\x02",
+
+"I'm not an information broker, so I don't really \x01",
+"give a flying rat's ass about all that stuff. \x01",
+"You'd be better off asking them yourselves. \x02",
+
+"Goddess, what an annoying woman. \x01",
+"I ought to just cut out her tongue already. \x02",
+
+"You guys had better watch your back while \x01",
+"you're out on the town.\x02",
+
+"Lot of suspicious people claiming to be \x01",
+"here to 'see the festival' today.\x02",
+
+"I don't like it one bit. My gut's telling me that \x01",
+"there's something real shady going down...\x02",
+
+"Oh, yeah. Those guys over in the First Division \x01",
+"make damn sure to keep it all hush-hush. \x02",
+
+"Heh. Guess we can only hope nothing bad\x01",
+"happens this year. \x02",
+
+"#0301FAidios, don't jinx it... Now that's all I'm \x01",
+"gonna be thinking about.\x02",
+
+"After all, he came running to me like a \x01",
+"little girl when he found out his routes \x01",
+"were shutting down.\x02",
+
+"Nah. He's just a longtime customer, is all. \x01",
+"I made more than a few deals with him\x01",
+"before he went and joined Revache.\x02",
+
+"Business tends to pick up like crazy around\x01",
+"the time of the Anniversary Festival. Not that\x01",
+"I'm complaining. \x02",
+
+"Some investigators from the First Division \x01",
+"just came by.\x02",
+
+"Sounded like they were sniffing out \x01",
+"something big.\x02",
+
+"#0105FWould you happen to sell any information\x01",
+"on Crossbell's underworld? \x02",
+
+"Sometimes during negotiations, a slip of the \x01",
+"tongue can betray a person's secrets.\x02",
+
+"Heh. It's almost creepy just how shrewd he \x01",
+"is, but I can't argue with the results. \x02",
+
+"In fact, I'm a bit interested to see what he \x01",
+"might get up to.\x02",
+
+"Heheh... Now, I definitely can't promise \x01",
+"you that, but I don't think they'll be needing \x01",
+"my services.\x02",
+
+"I'm impressed at the marvelous job he's doing\x01",
+"of destroying Revache. \x02",
+
+"Yeah, it is. Though I can't say I've ever \x01",
+"met him myself.\x02",
+
+"He's the branch manager of Heiyue's Crossbell \x01",
+"outfit. He's supposedly cunning enough to resolve\x01",
+"any kind of issue. Be it internally or externally.\x02",
+
+"I imagine they're planning their attack, now \x01",
+"that they've gained a foothold in Crossbell.\x01",
+"Pretty solid move for a mafia, I'd say.\x02",
+
+"#0303FNow you mention it, this month in particular's\x01",
+"been chock-full of incidents. \x02\x03",
+
+"#0301FGuess they've been doin' all their dirty work \x01",
+"just under our noses. \x02",
+
+"I'll have to leave the store to Jingo for \x01",
+"a bit while I run an errand. \x02",
+
+"Got a meeting in the Empire that I\x01",
+"sure as hell can't afford to miss. \x02",
+
+"Son of a bitch. I 've got low blood pressure, \x01",
+"people. I told them not to call for me so \x01",
+"early in the damn morning.\x02",
+
+"Heheh. Probably checking out what they're\x01",
+"capable of before Revache gets their hands \x01",
+"on them, I'd guess.\x02",
+
+"Haha. I like to throw my most valued \x01",
+"clients a bone or two at times.\x02",
+
+"I hate to break it to you, but I haven't laid \x01",
+"a finger on that stuff. I've heard plenty of \x01",
+"rumors about it, though.\x02",
+
+"Goddess Almighty, lady! How many times \x01",
+"do I have to say it before you get it through \x01",
+"your head?\x02",
+
+"Jingo, you can at least do simple math, \x01",
+"can't you? Let's give it a test.\x02",
+
+"It isn't perfect at all. How is this in any\x01",
+"way appropriate? \x02",
+
+"Sorry to bug ya. Just give me a heads-up \x01",
+"if you need anything.\x02",
+
+"#0006FThat'll have to be a no. But, um... Should a \x01",
+"black market broker really be as open about \x01",
+"this as you are?\x02",
+
+"Oh, come now. I'm just a simple seller of \x01",
+"alcohol and groceries...on the surface. \x01",
+"Hahaha. Got a problem with that, officer?\x02",
+
+"As long as there is no threat of them having\x01",
+"ties with Revache, I suppose we can keep quiet. \x02",
+
+"We were hoping you could provide us with \x01",
+"some information regarding the type of \x01",
+"business you're running.\x02",
+
+"We deal with goods coming in from \x01",
+"all over Zemuria.\x02",
+
+"#0003FEven so, I can't get over how suspicious\x01",
+"she is... \x02",
+
+"'Colonel, it's time we began marching through \x01",
+"the snow!'\x02",
+
+"#0006F(What kind of strange game of pretend is \x01",
+"she playing?)\x02",
+
+"#0200F(I wonder if those Mishy are happy with \x01",
+"this life...)\x02",
+
+"#0106F(Is it really all right for a child to be \x01",
+"doing this...?) \x02",
+
+"Y'know, Mama ran a store in a conflict zone \x01",
+"before I was born.\x02",
+
+"She'd always tell me about these crazy \x01",
+"firefights she'd have with her customers.\x02",
+
+"I know that I'm in safe hands if we're \x01",
+"ever attacked.\x02",
+
+"Ignore that nosy-ass sister and buy somethin', \x01",
+"will ya?\x02",
+
+"Math's a total cakewalk for a smarty \x01",
+"like myself!\x02",
+
+"#0003FKeA... If you're gonna come, then you have to \x01",
+"make sure to let us know. I mean it.\x02",
+
+"#1108FBut you've got so much stuff in here. \x01",
+"It all looks super fun!\x02",
+
+//extra space before the music note
+"#1109FI sure do!  ♪\x02",
+
+"#0206FI never would have expected KeA to enjoy\x01",
+"playing here of all places... \x02",
+
+"#0306FHow the hell'd she take a fancy to a shady \x01",
+"place like this?\x02",
+
+"Ah. It's the festival... Man, I really wanted \x01",
+"to go, too.\x02",
+
+"Ya wanna see it? It's some pretty \x01",
+"expensive stuff.\x02",
+
+"Don't mind the price. When it comes to primo \x01",
+"merch, you gotta pay primo mira. That's just\x01",
+"how it works!\x02",
+
+"That's why we gotta close in the evening.\x01",
+"So if you're buyin' something, you better \x01",
+"hurry it up!\x02",
+
+"If you're plannin' to goof off, then \x01",
+"do it QUIETLY!\x02",
+
+"Mama hasn't been takin' me to any of her \x01",
+"dealings lately.\x02",
+
+"But I guess things must be real dangerous \x01",
+"on her end to leave me outta the mix.\x02",
+
+"Mama told me that last time she tried to \x01",
+"deal with Revache, she got attacked.\x02",
+
+"Hmm... Maybe I should put 'em all in\x01",
+"that big case. That way they'll all be \x01",
+"a lil' easier to see.\x02",
+
+"#0103FIt makes for a pretty unassuming exchange \x01",
+"shop on the outside... \x02\x03",
+
+"But the legal gray area they choose to \x01",
+"operate in is always dangerously treading \x01",
+"on black, isn't it? \x02",
+
+"But they are always more than willing to \x01",
+"push the boundaries of legality. \x02",
+
+"It always seems to be teeterin' on the \x01",
+"edge of legal and illegal, doesn't it?\x02",
+
+"#0100FActually, could you tell us what kind of \x01",
+"store this is?\x02",
+
+"#0203FThis continues to sound more suspicious \x01",
+"by the minute.\x02",
+
+"#0306FWhat I think she's tryin' to say is that this \x01",
+"is some kinda...exchange shop, right?\x02",
+
+"*sigh* Teaching the children of the \x01",
+"Downtown District is never as\x01",
+"straightforward as you'd hope.\x02",
+
+"I'd like for Jingo to participate in \x01",
+"Sunday School like all the other kids, \x01",
+"but I'm always turned away.\x02",
+
+"I can only pray that I'm able to make\x01",
+"Ashleigh understand... \x02",
+
+"Scott and Wenzel went to check on \x01",
+"Bellguard Gate.\x02",
+
+"They got an eyewitness report claiming \x01",
+"that the mafia had been on the premises. \x02",
+
+"#3104FI'm giving you this offer out of the kindness \x01",
+"of my heart, okay?\x02\x03",
+
+"How many times have I turned down \x01",
+"this offer now?\x02",
+
+"#3101FI know exactly what you're capable of, so I'd\x01",
+"like to settle this without having to take you \x01",
+"down. Don't think we'll let you off so easy!\x02",
+
+"My routes are too much for some hotheaded, \x01",
+"petty criminals to handle. \x02",
+
+"#3100FWell, I've said my piece. Think it over. \x01",
+"If you want to keep your little operation\x01",
+"in Crossbell up and running, that is.\x02",
+
+"That leads to the basement storeroom, and you're\x01",
+"definitely not allowed in there. So keep your \x01",
+"asses right up here if you wanna buy somethin'!\x02",
+			
+t0020.py (Armorica)
+//should be Scott's Voice, not Scott
+"Scott",
+"#1PThat won't be necessary.\x02",
+
+"Compared to a genuine man like Harold,\x01",
+"Jake's just a fumbling, little hatchling. \x02",
