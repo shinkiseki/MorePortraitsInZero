@@ -1126,6 +1126,11 @@ c103c.py (Long Lao)
 "#3404FOh, you know. Let's just say that there hasn't \x01",
 "been a dull moment in my life.\x02",
 
+c1100.py (Administrative District)
+
+"Patrols around the city have recently been \x01",
+"increased under the section chief's orders.\x02",
+
 c1310.py (IBC)
 
 "#0203F('Newfangled gadgets'...? Speaking\x01",

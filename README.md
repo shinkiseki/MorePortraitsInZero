@@ -23,13 +23,13 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **Wenzel (11/11)**
 *   **Lynn (11/11)**
 *   **Aeolia (11/11)**
-*   Pierre (0/2)
+*   **Pierre (2/2)**
 *   Mireille (0/3)
 *   Sully (0/5)
 *   Abbas (0/6)
 *   Michel (0/3)
 *   **[NEW!] Fernand (2/2)**
-*   New character #2 (0/6)
+*   **[NEW!] Franz (6/6)**
 *   New character #3 (0/3)
 *   New character #4 (0/3)
 
@@ -52,8 +52,14 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Aeolia
 ![gameplay_screenshot_aeolia_01](/gameplay_screenshots/gameplay_screenshot_aeolia_01.jpg)
 
+### Pierre
+![gameplay_screenshot_pierre_01](/gameplay_screenshots/gameplay_screenshot_pierre_01.jpg)
+
 ### Fernand
 ![gameplay_screenshot_fernand_01](/gameplay_screenshots/gameplay_screenshot_fernand_01.jpg)
+
+### Franz
+![gameplay_screenshot_franz_01](/gameplay_screenshots/gameplay_screenshot_franz_01.jpg)
 
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
@@ -72,7 +78,17 @@ For those using GitHub, please report these (or other) issues if they are discov
 *   **[Misc.]** There's probably something I've forgotten to list--toss any miscellaneous issues here, and I'll sort it out.
 
 ## The creation process
-Coming soon!
+As there have been some elaborate steps taken to develop the assets and tools necessary to make this mod a reality, I'm providing a (hopefully) brief overview of how this mod was made. I'll be covering three parts: creating the raw image portrait files, converting the raw images to the proper format, and editing the scena (scenario) files.
+
+To start, this mod includes portraits from three separate sources: Ao no Kiseki (also known as Trails to Azure), Akatsuki no Kiseki (a Trails gacha title never released in English), and the great work of [YuzuKiyochii](https://twitter.com/YuzuKiyochii). The Azure portraits were sourced from the Geofront version of Azure, so it was possible to directly port those back into Zero with no other modifications necessary.
+
+For the Akatsuki images, though, this process was not as straightforward. Rather than each portrait being stored in a separate file, Akatsuki stores one large image per character:
+![01-original_wendy](/documentation/01-original_wendy.png)
+
+
+
+![02-upscaled_wendy](/documentation/02-upscaled_wendy.png)
+![03-upscaled_wendy](/documentation/03-wendy_comparison.png)
 
 ## Credits
 *   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for new characters #3 and #4.
@@ -80,6 +96,7 @@ Coming soon!
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
+*   2022-10-15: Released v0.3.0. New character #2 revealed (Franz). Added two new portraits for Pierre. Files for Pierre and Franz completed. Added folder of documentation images and updated README to include section about the creation process.
 *   2022-10-14: Released v0.2.0. Updated scena files to correct several typos present in the original files, including an error causing "Ozelle" to be named "Zell" in some instances. Files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file. Added folder of sample images and added images to README.
 *   2022-10-13: Updated scena files to correct several typos present in the original files. More files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file.
 *   2022-10-11: Added a new portrait for Aeolia. Updated several Aeolia portraits. Updated scena files to correct several typos present in the original files. Files for Scott, Wenzel, Lynn, and Aeolia partially completed. Reorganized known text issues file and added newly discovered issues.
