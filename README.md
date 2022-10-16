@@ -85,10 +85,7 @@ To start, this mod includes portraits from three separate sources: Ao no Kiseki 
 For the Akatsuki images, though, this process was not as straightforward. Rather than each portrait being stored in a separate file, Akatsuki stores one large image per character:
 ![01-original_wendy](/documentation/01-original_wendy.png)
 
-
-
-![02-upscaled_wendy](/documentation/02-upscaled_wendy.png)
-![03-upscaled_wendy](/documentation/03-wendy_comparison.png)
+TBD
 
 ## Compatibility with other mods
 *   [Inevitable Zero](https://github.com/Kyuuhachi/Inevitable-Zero)
