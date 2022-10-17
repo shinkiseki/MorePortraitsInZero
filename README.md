@@ -96,6 +96,7 @@ TBD
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
+*   2022-10-17: Fixed issue where Pierre's portraits wouldn't appear when in his office (c1160.py).
 *   2022-10-16: Released v0.3.0. New character #2 revealed (Franz). Added two new portraits for Pierre. Files for Pierre and Franz completed. Added folder of documentation images and updated README to include section about the creation process.
 *   2022-10-14: Released v0.2.0. Updated scena files to correct several typos present in the original files, including an error causing "Ozelle" to be named "Zell" in some instances. Files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file. Added folder of sample images and added images to README.
 *   2022-10-13: Updated scena files to correct several typos present in the original files. More files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file.
