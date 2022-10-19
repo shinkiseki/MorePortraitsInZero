@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam ve
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v0.3.0 (released 2022-10-16)  
-Last updated: 2022-10-16  
+Last updated: 2022-10-19  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
@@ -24,7 +24,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **Lynn (11/11)**
 *   **Aeolia (11/11)**
 *   **Pierre (2/2)**
-*   Mireille (0/3)
+*   **Mireille (3/3)**
 *   Sully (0/5)
 *   Abbas (0/6)
 *   Michel (0/3)
@@ -61,6 +61,11 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Franz
 ![gameplay_screenshot_franz_01](/gameplay_screenshots/gameplay_screenshot_franz_01.jpg)
 
+### Mireille
+![gameplay_screenshot_mireille_01]
+(/gameplay_screenshots/gameplay_screenshot_mireille_01.jpg)![gameplay_screenshot_mireille_02]
+(/gameplay_screenshots/gameplay_screenshot_mireille_02.jpg)
+
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
 
@@ -96,6 +101,7 @@ TBD
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
+*   2022-10-19: Updated a portrait for Aeolia. Files for Mireille completed.
 *   2022-10-16: Released v0.3.0. New character #2 revealed (Franz). Added two new portraits for Pierre. Files for Pierre and Franz completed. Added folder of documentation images and updated README to include section about the creation process.
 *   2022-10-14: Released v0.2.0. Updated scena files to correct several typos present in the original files, including an error causing "Ozelle" to be named "Zell" in some instances. Files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file. Added folder of sample images and added images to README.
 *   2022-10-13: Updated scena files to correct several typos present in the original files. More files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file.

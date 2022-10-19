@@ -1510,3 +1510,309 @@ t0020.py (Armorica)
 
 "Compared to a genuine man like Harold,\x01",
 "Jake's just a fumbling, little hatchling. \x02",
+
+t2020.py (Bellguard Gate)
+
+"*sigh* Still haven't learned any manners yet, \x01",
+            "have you?\x02",
+			
+			"We just had a shipment of supplements being \x01",
+            "researched at St. Ursula Medical College \x01",
+            "arrive not too long ago.\x02",
+			
+			"#0309FHey, Mireille. Mind sharin' the wealth with \x01",
+            "yours truly?\x02",
+			
+			"We just had a shipment of supplements being \x01",
+            "researched at St. Ursula Medical College \x01",
+            "arrive not too long ago.\x02",
+			
+			"We have an intense drill planned at Knox \x01",
+            "Forest tonight, so I'm hoping that these will \x01",
+            "keep us going.\x02",
+			
+			"The Crossbell Guardian Force's standard-issue\x01",
+            "weapons are stun halberds and assault rifles, \x01",
+            "both of which are mandatory to be trained in.\x02",
+			
+			"#0309FHahaha. Close combat happened to be my forte, \x01",
+            "so I couldn't help myself.\x02\x03",
+            "#0300FY'know, I'm always down to give you a few \x01",
+            "pointers, if you'd like. Some say my halberd \x01",
+            "skills are faster than a bullet!\x02",
+			
+			"*sigh* There you go again with that ego \x01",
+            "of yours...\x02",
+			
+			"The Crossbell Guardian Force's standard-issue\x01",
+            "weapons are stun halberds and assault rifles, \x01",
+            "both of which are mandatory to be trained in.\x02",
+			
+			"#0503FOh, no, I wouldn't go that far. I still have \x01",
+            "much to learn and improve on.\x02\x03",
+			
+			"#0300FHaha, Mireille's unrelenting sense of justice \x01",
+            "is the only thing she's had over the other \x01",
+            "guys, I'd say.\x02",
+			
+			"W-Wait, 'only thing'?! What do you mean \x01",
+            "'only thing'?!\x02",
+			
+			"So, let's both continue to work towards making \x01",
+            "the Crossbell Guardian Force the best it can \x01",
+            "possibly be.\x02",
+			
+			"With luck, everything will wrap up without \x01",
+            "any complications.\x02",
+			
+			"#0300FIt's gonna be up to you to lead the troops \x01",
+            "here, Mireille.\x02",
+			
+			"From here on out, it's my duty to make sure my \x01",
+            "fellow guardsmen don't lose their morale...\x02",
+			
+			"As the acting leader of Bellguard Gate, I've \x01",
+            "had to sort through passport applications for \x01",
+            "everyone entering and exiting Crossbell State.\x02",
+			
+			"Now that I think about it, you hardly ever did \x01",
+            "any office work, right, Randy?\x02",
+			
+			"Randy...please tell me you aren't doing the \x01",
+            "same to the rest of the Special Support Section.\x02",
+			
+			"Phew... I don't particularly dislike paperwork, \x01",
+            "but it can be tough.\x02",
+			
+			"#0304FWell, of course it is. The Warrant Officer \x01",
+            "Mireille I know's a warrior, through and through!\x02\x03",
+			
+            "#0300FWhen it comes to combat, she's one of the best \x01",
+            "Bellguard Gate has to offer. Not a single one of \x01",
+            "the guys out here stands a chance against her.\x02\x03",
+			
+			"You make it sound like I'm some sort \x01",
+            "of musclehead!\x02",
+			
+			"*sigh* Despite how things may look, I'm \x01",
+            "extremely busy right now.\x02",
+			
+			"I intend to thoroughly search the commander's \x01",
+            "office for the key.\x02",
+			
+			"As the highest-ranking officer here, it's my \x01",
+            "duty to make sure Bellguard Gate's security \x01",
+            "remains top-notch.\x02",
+			
+			"#0300FI bet you guys will manage just fine without \x01",
+            "that bum. The CGF is filled with the best of \x01",
+            "the best, ain't it?\x02\x03",
+			
+			"#0304FStill, try to keep a cool head over this, okay?\x01",
+            "Wouldn't want you to get too overzealous \x01",
+            "and screw things up like last time, y'know?\x02",
+			
+			"(Y-You're going to bring THAT up?! Of all the \x01",
+            "insensitive jerks I've ever...)\x02",
+			
+			"Traffic through the gate always picks up during\x01",
+            "the Anniversary Festival, so we'll likely have \x01",
+            "at least one or two mishaps to sort out.\x02",
+			
+			"As the highest-ranking officer here, it's my \x01",
+            "duty to make sure Bellguard Gate's security \x01",
+            "remains top-notch.\x02",
+			
+			"Randy... Y-You really shouldn't be loitering \x01",
+            "around Bellguard Gate for too long, you know?\x02",
+			
+			"#0200FDo you mean Randy's trouble with the \x01",
+            "women here?\x02",
+			
+			"#0106FRandy's the only person I can think of who'd get \x01",
+            "kicked out for being too much of a womanizer.\x02",
+			
+			"#0309FC'mon, Mireille! It's nothin' to be shy about, \x01",
+            "is it?\x02\x03",
+			
+            "#0304FYou were a liiittle in love with the Orlando, \x01",
+            "right? I'm sure if ya admit it, you'd feel better.\x02",
+			
+			"#0306FTo sum it up, you knew you'd be lonely without\x01",
+            "me around, right? In as platonic of a way as \x01",
+            "you'd like to attest.\x02",
+			
+			"*sigh* Leaving the CGF hasn't made you change \x01",
+            "in the slightest...\x02",
+			
+			"Heehee. An earnest apology from the one and \x01",
+            "only Randy Orlando. Who would've thought we'd \x01",
+            "see the day?\x02",
+			
+			"You don't need to be sorry, though. I'm sure \x01",
+            "you all had your plates full, and I was able to \x01",
+            "handle it. So, you're off the hook. I promise.\x02",
+			
+			"Schedule says that we have a late-night \x01",
+            "combat drill out on the forest road tonight...\x02",
+			
+			"Guess we've got no choice, but still, how \x01",
+            "pathetic can we get?\x02",
+			
+			"My buddy, Burrell, over at Tangram Gate \x01",
+            "was practically crying tears of joy from the\x01",
+            "investigation of the ruins being over.\x02",
+			
+			"I recently got my hands on a poster of \x01",
+            "Arc en Ciel's new dancer, Rixia Mao,\x01",
+            "from my buddy over at Tangram Gate.\x02",
+			
+			"She's a bit unreliable at times, but I can't \x01",
+            "deny that she has drive. Overall, she's a \x01",
+            "good superior.\x02",
+			
+			"Well, it looks like my break is already over. \x01",
+            "Time to get back to it.\x02",
+			
+			"Oh, right. I just finished this book while I \x01",
+            "was on break. Why don't you guys take it\x01",
+            "with you?\x02",
+			
+			"#11POh, come on. It couldn't have just up \x01",
+            "and disappeared...\x02",
+			
+			//appears twice
+			"#6P#0300FYo, Mireille. How's my favorite CGF \x01",
+            "soldier doin'?\x02",
+			
+			"#11PRandy? And the rest of the Special Support \x01",
+            "Section? What are you four doing here?\x02",
+			
+			"#11POh, right! It's about that support request \x01",
+            "I submitted, isn't it?\x02",
+			
+			"#11PI've been in such a rush, I nearly forgot \x01",
+            "about it...\x02",
+			
+			"#0000FWe came by to ask about the support request \x01",
+            "you submitted to us.\x02",
+			
+			"#6P#0304FHaha, classic Mireille. She puts on a serious \x01",
+            "face, but she's really not all there.\x02",
+			
+			"#11PSomeone like YOU has no right to say that \x01",
+            "to me...\x02",
+			
+			"#0001FI know it's sudden, but would you mind \x01",
+            "explaining the request to us?\x02\x03",
+			
+			"I fail to understand how you could have lost \x01",
+            "something so valuable...\x02",
+			
+			"#11PWell, it started yesterday. The commander \x01",
+            "threw an exclusive party to ring in Crossbell's\x01",
+            "70th anniversary.\x02",
+			
+			"#11POnce the commander returned and had the car \x01",
+            "parked inside the gate, he snatched the key \x01",
+            "from the driver.\x02",
+			
+			"#11PAnd, later, it just...vanished from his \x01",
+            "possession somehow.\x02",
+			
+			"#0001FBut was that really your best move? The tarp \x01",
+            "almost makes it even more conspicuous.\x02",
+			
+			"#0103FFor example, why exactly is the CGF's new \x01",
+            "heavy-duty armored car actively deployed \x01",
+            "inside of the border gate?\x02\x03",
+			
+			"#0300FThe armored cars we were usin' before were\x01",
+            "pretty top-of-the-line in terms of defense and \x01",
+            "mobility, if I remember right.\x02",
+			
+			"#11PIt's equipped with vulcan cannons, miniature \x01",
+            "missile pods, and has seen an entire overhaul \x01",
+            "when it comes to its base firepower.\x02",
+			
+			"#11PIf you inspected the CGF's entire arsenal, \x01",
+            "it would easily come out on top. No doubt \x01",
+            "about it.\x02",
+			
+			"#6P#0301FGot'cha. I agree with ya, then. Leavin' that \x01",
+            "out in the open sounds a bit too dicey.\x02",
+			
+			"#6P#0303FSo? Where exactly is that oh-so wonderful \x01",
+            "commander right now anyway?\x02\x03",
+			
+			"#11PIt is. He's just...away at the moment. He \x01",
+            "headed out this morning and left us to \x01",
+            "sort out this mess.\x02",
+			
+			"#11PHe said he couldn't possibly call off all the\x01",
+            "soirees he was hosting for the festival. 'And \x01",
+            "flake out on Crossbell's top elites? I think not!'\x02",
+			
+			"#11PAnyway, we really want to move the armored \x01",
+            "car out of the public eye ASAP...\x02",
+			
+			"#11PWe want to move the armored car out of the \x01",
+            "public eye ASAP.\x02",
+			
+			"#6P#0101FNow, would you mind helping us retrace the \x01",
+            "commander's steps?\x02\x03",
+			
+			"#11PWhen the commander returned, he had the \x01",
+            "armored car parked right inside of the gate,\x01",
+            "and he took the key from the soldier driving.\x02",
+			
+			"#11POnce he finally tired himself out, he realized \x01",
+            "he had no idea where the key had gone.\x02",
+			
+			"#6P#0101FFrom what we just heard, we know for a fact \x01",
+            "that the key was lost while he was gallivanting \x01",
+            "around the gate.\x02\x03",
+			
+			"#0000FAll right, then. We should perform a sweep of \x01",
+            "the general area first.\x02\x03",
+			
+			"#6P#0200FWarrant Officer Mireille, would you like to \x01",
+            "accompany us on our search?\x02",
+			
+			"#11PI'm afraid not. I feel like I would just get in \x01",
+            "the way if I came along.\x02",
+			
+			"#11PI'll still be doing what I can to find it, \x01",
+            "though. Starting with tearing apart the \x01",
+            "commander's office.\x02",
+			
+			"#6P#0304FDon't you worry about a thing. Even in the \x01",
+            "most desperate of situations, you can always \x01",
+            "count on ol' Randy to help ya out of a pinch.\x02",
+			
+			"#11PGeez. I really am counting on you, Randy, \x01",
+            "so I hope you can live up to that big talk.\x02",
+			
+			"#12P#0000FWe should go ahead and commence our search \x01",
+            "for the key.\x02\x03",
+            "Let's start by checking the armored car itself.\x02",
+			
+			"#11PO-Oh. Is that right...? Well, I suppose I can't \x01",
+            "fault you for that.\x02",
+			
+			"#0306FProbably out partying or somethin'.\x02\x03",
+            "Guy rarely does his job. He usually leaves \x01",
+            "everything to his subordinates.\x02",
+			
+			"#0106FThat aside, this room is in extremely \x01",
+            "poor taste.\x02\x03",
+			
+            "#0101FImagine the tens of thousands of mira it took \x01",
+            "to purchase all of these antiques on display...\x02",
+			
+			"#0306FMan, what a waste. If I had that much mira, \x01",
+            "I'd be throwin' it all over the Entertainment \x01",
+            "District, livin' it up.\x02\x03",
+			
+			"#0211FPerhaps you two are not as different as you \x01",
+            "might think.\x02",
