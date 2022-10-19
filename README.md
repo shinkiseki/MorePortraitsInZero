@@ -25,7 +25,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **Aeolia (11/11)**
 *   **Pierre (2/2)**
 *   **Mireille (3/3)**
-*   Sully (0/5)
+*   Sully (1/6)
 *   Abbas (0/6)
 *   Michel (0/3)
 *   **[NEW!] Fernand (2/2)**
@@ -66,6 +66,12 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 (/gameplay_screenshots/gameplay_screenshot_mireille_01.jpg)![gameplay_screenshot_mireille_02]
 (/gameplay_screenshots/gameplay_screenshot_mireille_02.jpg)
 
+### Sully
+![gameplay_screenshot_sully_01]
+(/gameplay_screenshots/gameplay_screenshot_sully_01.jpg)
+![gameplay_screenshot_sully_02]
+(/gameplay_screenshots/gameplay_screenshot_sully_02.jpg)
+
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
 
@@ -101,6 +107,7 @@ TBD
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
+*   2022-10-20: Updated the number of total files for Sully (Sully appears as "Boy" in two files).
 *   2022-10-19: Updated a portrait for Aeolia. Files for Mireille completed.
 *   2022-10-17: Fixed issue where Pierre's portraits wouldn't appear when in his office (c1160.py).
 *   2022-10-16: Released v0.3.0. New character #2 revealed (Franz). Added two new portraits for Pierre. Files for Pierre and Franz completed. Added folder of documentation images and updated README to include section about the creation process.
