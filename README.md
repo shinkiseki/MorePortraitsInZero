@@ -62,9 +62,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ![gameplay_screenshot_franz_01](/gameplay_screenshots/gameplay_screenshot_franz_01.jpg)
 
 ### Mireille
-![gameplay_screenshot_mireille_01]
-(/gameplay_screenshots/gameplay_screenshot_mireille_01.jpg)![gameplay_screenshot_mireille_02]
-(/gameplay_screenshots/gameplay_screenshot_mireille_02.jpg)
+![gameplay_screenshot_mireille_01](/gameplay_screenshots/gameplay_screenshot_mireille_01.jpg)
+![gameplay_screenshot_mireille_02](/gameplay_screenshots/gameplay_screenshot_mireille_02.jpg)
 
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
