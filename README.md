@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam ve
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v0.3.0 (released 2022-10-16)  
-Last updated: 2022-10-19  
+Last updated: 2022-10-21  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
@@ -26,7 +26,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **Pierre (2/2)**
 *   **Mireille (3/3)**
 *   **Sully (6/6)**
-*   Abbas (0/6)
+*   **Abbas (6/6)**
 *   Michel (0/3)
 *   **[NEW!] Fernand (2/2)**
 *   **[NEW!] Franz (6/6)**
@@ -69,6 +69,9 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ![gameplay_screenshot_sully_01](/gameplay_screenshots/gameplay_screenshot_sully_01.jpg)
 ![gameplay_screenshot_sully_02](/gameplay_screenshots/gameplay_screenshot_sully_02.jpg)
 
+### Abbas
+![gameplay_screenshot_abbas_01](/gameplay_screenshots/gameplay_screenshot_abbas_01.jpg)
+
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
 
@@ -104,6 +107,7 @@ TBD
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
+*   2022-10-21: Files for Abbas completed.
 *   2022-10-20: Updated the number of total files for Sully (Sully appears as "Boy" in two files). Files for Sully completed. Added newly discovered issues to text files issue.
 *   2022-10-19: Updated a portrait for Aeolia. Files for Mireille completed.
 *   2022-10-17: Fixed issue where Pierre's portraits wouldn't appear when in his office (c1160.py).

@@ -1189,6 +1189,10 @@ c1430.py (Guillaume Factory)
 "into some funny 'Orbal Store' or somethin' outta\x01",
 "the blue.\x02",
 
+c1410.py (Moon Temple - Quarters)
+"#10400331V#5P#0404FWe've got good reason to be sure \x01",
+"the Vipers are the culprits.\x02\x03",
+
 c1440.py (Neinvalli Exchange)
 
 "Goddess, what an annoying woman. \x01",
