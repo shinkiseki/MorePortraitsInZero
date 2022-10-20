@@ -962,6 +962,13 @@ c0210.py (Morges Bakery)
 "have backfired horribly. I don't know \x01",
 "what else I expected.)\x02",
 
+c0240.py (Villa-Raisins)
+"#12P#0309FOf course. Seeya around, Rixia!\x02",
+
+c0420.py (Arc en Ciel)
+"#12P#0000FDon't worry about it, Rixia. Just leave\x01",
+"the investigation to us.\x02\x03",
+
 c1010.py (Bracer Guild)
 
 "#1400FHowever, their organization has been\x01",
