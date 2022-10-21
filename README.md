@@ -27,7 +27,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **Mireille (3/3)**
 *   **Sully (6/6)**
 *   **Abbas (6/6)**
-*   Michel (0/3)
+*   Michel (2/3)
 *   **[NEW!] Fernand (2/2)**
 *   **[NEW!] Franz (6/6)**
 *   New character #3 (0/3)
@@ -107,7 +107,7 @@ TBD
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
-*   2022-10-21: Files for Abbas completed.
+*   2022-10-21: Files for Abbas completed. Files for Michel partially completed.
 *   2022-10-20: Updated the number of total files for Sully (Sully appears as "Boy" in two files). Files for Sully completed. Added newly discovered issues to text files issue.
 *   2022-10-19: Updated a portrait for Aeolia. Files for Mireille completed.
 *   2022-10-17: Fixed issue where Pierre's portraits wouldn't appear when in his office (c1160.py).
