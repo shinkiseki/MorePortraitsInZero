@@ -208,6 +208,15 @@ c0010.py (Crossbell Station)
 "Those two are impressive, especially \x01",
 "considering how young they are.\x02\x03",
 
+c0110.py (SSS Building)
+"#12200053V#11P#0012FI mean, I don't think we're all that compatable,\x01",
+"and I can't really imagine our relationship going\x01",
+"that way.\x02",
+
+"#11200009VIs it really okay for you to leave Crossbell for \x01",
+"that long?\x02",
+
+
 c0140.py (Genten Orbal Store)
 "If I had to describe everything that the Reinford\x01",
 "Company manufactures, the words 'hefty' and \x01",
@@ -970,6 +979,16 @@ c0420.py (Arc en Ciel)
 "the investigation to us.\x02\x03",
 
 c1010.py (Bracer Guild)
+
+"Now go and give that drug investiation your\x01",
+"full attention, okay?\x02",
+
+"I'll need to be sure to rearange the schedule\x01",
+"so we can deploy our members at a moment's\x01",
+"notice.\x02",
+
+"Oh, nevermind. Let's just get back to our\x01",
+"little meeting.\x02",
 
 "#1400FHowever, their organization has been\x01",
 "split into numerous smaller units, \x01",
