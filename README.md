@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v0.3.0 (released 2022-10-16)  
-Last updated: 2022-10-22  
+Latest release: v0.4.1 (released 2022-10-24)  
+Last updated: 2022-10-24  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
@@ -110,7 +110,8 @@ TBD
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
-*   2022-10-22: Files for Michel completed.
+*   2022-10-24: Released v0.4.1. Fixed issue where the wrong file was uploaded, breaking behavior in the Harbor District during some parts of the Anniversary Festival.
+*   2022-10-22: Released v0.4.0. Files for Michel completed.
 *   2022-10-21: Files for Abbas completed. Files for Michel partially completed.
 *   2022-10-20: Updated the number of total files for Sully (Sully appears as "Boy" in two files). Files for Sully completed. Added newly discovered issues to text files issue.
 *   2022-10-19: Updated a portrait for Aeolia. Files for Mireille completed.
