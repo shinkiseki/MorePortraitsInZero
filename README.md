@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam ve
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v0.4.1 (released 2022-10-24)  
-Last updated: 2022-10-24  
+Last updated: 2022-10-28  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
@@ -30,8 +30,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **Michel (3/3)**
 *   **[NEW!] Fernand (2/2)**
 *   **[NEW!] Franz (6/6)**
-*   New character #3 (0/3)
-*   New character #4 (0/3)
+*   **[NEW!] Oscar (3/3)**
+*   **[NEW!] Bennet (3/3)**
 
 ## Gameplay screenshots
 ### Wendy
@@ -75,6 +75,12 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Michel
 ![gameplay_screenshot_michel_01](/gameplay_screenshots/gameplay_screenshot_michel_01.jpg)
 
+### Oscar
+![gameplay_screenshot_oscar_01](/gameplay_screenshots/gameplay_screenshot_oscar_01.jpg)
+
+### Bennet
+![gameplay_screenshot_bennet_01](/gameplay_screenshots/gameplay_screenshot_bennet_01.jpg)
+
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
 
@@ -105,11 +111,12 @@ TBD
 *   [Inevitable Zero](https://github.com/Kyuuhachi/Inevitable-Zero)
     *   Currently incompatible due to modifying some of the same files. A combined mod is possible in the forseeable future upon the completion of More Portraits in Zero.
 ## Credits
-*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for new characters #3 and #4.
+*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar and Bennet.
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 
 ## Changelog
+*   2022-10-28: New characters #3 and #4 revealed (Oscar and Bennet). Files for Oscar and Bennet completed.
 *   2022-10-24: Released v0.4.1. Fixed issue where the wrong file was uploaded, breaking behavior in the Harbor District during some parts of the Anniversary Festival.
 *   2022-10-22: Released v0.4.0. Files for Michel completed.
 *   2022-10-21: Files for Abbas completed. Files for Michel partially completed.

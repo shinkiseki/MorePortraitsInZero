@@ -243,6 +243,9 @@ c0210.py (Morges Bakery)
 "Oh, speaking of...Morge is giving me the\x01",
 "afternoon off today. \x02",
 
+"Hey, you guys. DId you all manage to\x01",
+"find the kid yet?\x02",
+
 "#0304FShould be able to get those fillets off of some\x01",
 "of those fishy monsters. \x02\x03",
 "Birds 'n snakes are our best bet for the eggs.\x02",
