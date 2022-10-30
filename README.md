@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v0.4.1 (released 2022-10-24)  
-Last updated: 2022-10-28  
+Latest release: v0.4.1 (released 2022-10-27)  
+Last updated: 2022-10-30  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
@@ -105,7 +105,10 @@ To start, this mod includes portraits from three separate sources: Ao no Kiseki 
 For the Akatsuki images, though, this process was not as straightforward. Rather than each portrait being stored in a separate file, Akatsuki stores one large image per character:
 ![01-original_wendy](/documentation/01-original_wendy.png)
 
-TBD
+This meant that there were no portraits that could be drag-and-dropped into the game--portraits would have to be manually created.
+
+TBA
+
 
 ## Compatibility with other mods
 *   [Inevitable Zero](https://github.com/Kyuuhachi/Inevitable-Zero)
@@ -114,8 +117,10 @@ TBD
 *   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar and Bennet.
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
+*   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2022-10-30: Updated half-bust portraits from Akatsuki characters to work properly. Added credit to Kyuuhachi for the tool necessary for said portraits.
 *   2022-10-28: New characters #3 and #4 revealed (Oscar and Bennet). Files for Oscar and Bennet completed.
 *   2022-10-24: Released v0.4.1. Fixed issue where the wrong file was uploaded, breaking behavior in the Harbor District during some parts of the Anniversary Festival.
 *   2022-10-22: Released v0.4.0. Files for Michel completed.
