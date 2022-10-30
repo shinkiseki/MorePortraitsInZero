@@ -2,7 +2,7 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v0.4.1 (released 2022-10-27)  
+Latest release: v0.4.1 (released 2022-10-24)  
 Last updated: 2022-10-30  
 Compatible with: Trails from Zero v1.3.7  
   
@@ -107,7 +107,7 @@ For the Akatsuki images, though, this process was not as straightforward. Rather
 
 This meant that there were no portraits that could be drag-and-dropped into the game--portraits would have to be manually created.
 
-TBA
+TBD
 
 
 ## Compatibility with other mods
