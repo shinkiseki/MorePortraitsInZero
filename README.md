@@ -120,7 +120,7 @@ TBD
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
-*   2022-11-02: Released v1.0.0. Added new Pierre half-bust portrait. Incorporated half-busts for remaining characters at appropriate times.
+*   2022-11-02: Released v1.0.0. Added new Pierre half-bust portrait. Incorporated half-busts for remaining characters at appropriate times. Created folder of all added portraits in png form for ease of viewing.
 *   2022-11-01: Updated scena files for Wendy to add half-bust portraits in several scenes. Confirmed that Chaco, Fernand, and Franz have no relevant scenes that require half-bust portraits.
 *   2022-10-30: Updated half-bust portraits from Akatsuki characters to work properly. Added credit to Kyuuhachi for the tool necessary for said portraits.
 *   2022-10-28: New characters #3 and #4 revealed (Oscar and Bennet). Files for Oscar and Bennet completed.
