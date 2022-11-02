@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v0.4.1 (released 2022-10-24)  
-Last updated: 2022-11-01  
+Latest release: v1.0.0 (released 2022-11-02)  
+Last updated: 2022-11-02  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
@@ -120,6 +120,7 @@ TBD
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2022-11-02: Released v1.0.0. Added new Pierre half-bust portrait. Incorporated half-busts for remaining characters at appropriate times.
 *   2022-11-01: Updated scena files for Wendy to add half-bust portraits in several scenes. Confirmed that Chaco, Fernand, and Franz have no relevant scenes that require half-bust portraits.
 *   2022-10-30: Updated half-bust portraits from Akatsuki characters to work properly. Added credit to Kyuuhachi for the tool necessary for said portraits.
 *   2022-10-28: New characters #3 and #4 revealed (Oscar and Bennet). Files for Oscar and Bennet completed.
