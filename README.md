@@ -6,7 +6,7 @@ Latest release: v1.0.1 (released 2022-11-03)
 Last updated: 2022-11-03  
 Compatible with: Trails from Zero v1.3.7  
   
-Watch the release trailer here: Coming soon!
+Watch the release trailer here: https://youtu.be/UgrfxsYdrzM
 
 ## Installation instructions
 1.  Download the latest release of More Portraits in Zero. This should include, among other files, a data folder.
@@ -102,7 +102,7 @@ As there have been some elaborate steps taken to develop the assets and tools ne
 
 To start, this mod includes portraits from three separate sources: Ao no Kiseki (also known as Trails to Azure), Akatsuki no Kiseki (a Trails gacha title never released in English), and the great work of [YuzuKiyochii](https://twitter.com/YuzuKiyochii). The Azure portraits were sourced from the Geofront version of Azure, so it was possible to directly port those back into Zero with no other modifications necessary.
 
-For the Akatsuki images, though, this process was not as straightforward. Rather than each portrait being stored in a separate file, Akatsuki stores one large image per character:
+For the Akatsuki images, though, this process was not as straightforward. Rather than each portrait being stored in a separate file, Akatsuki stores one large image per character:  
 ![01-original_wendy](/documentation/01-original_wendy.png)
 
 This meant that there were no portraits that could be drag-and-dropped into the game--portraits would have to be manually created.
@@ -120,7 +120,7 @@ TBD
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
-*   2022-11-03: Released v1.0.1. Fixed issue where Franz's portraits wouldn't appear in City Hall (c1110.bin).
+*   2022-11-03: Released v1.0.1. Fixed issue where Franz's portraits wouldn't appear in City Hall (c1110.bin). Fixed issue with a Lynn text box in St. Ursula (t1510.bin).
 *   2022-11-02: Released v1.0.0. Added new Pierre half-bust portrait. Incorporated half-busts for remaining characters at appropriate times. Created folder of all added portraits in png form for ease of viewing.
 *   2022-11-01: Updated scena files for Wendy to add half-bust portraits in several scenes. Confirmed that Chaco, Fernand, and Franz have no relevant scenes that require half-bust portraits.
 *   2022-10-30: Updated half-bust portraits from Akatsuki characters to work properly. Added credit to Kyuuhachi for the tool necessary for said portraits.
