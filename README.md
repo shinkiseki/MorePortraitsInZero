@@ -13,7 +13,7 @@ Watch the release trailer here: Coming soon!
 2.  Identify the folder where the Steam edition of Trails from Zero lives. Within this folder, there should be, among other files, the game itself (zero.exe) and a data folder. This is the __root folder__ of the game.
 3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
 4.  The mod has now been installed! New portraits will now be shown in-game.
-5.  To uninstall the mod, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed.
+5.  To uninstall the mod, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
 
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=gPqF-cjxZ3c) of this mod are labeled as new.
