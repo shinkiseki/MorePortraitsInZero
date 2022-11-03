@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.0.0 (released 2022-11-02)  
-Last updated: 2022-11-02  
+Latest release: v1.0.1 (released 2022-11-03)  
+Last updated: 2022-11-03  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: Coming soon!
@@ -120,6 +120,7 @@ TBD
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
 
 ## Changelog
+*   2022-11-03: Released v1.0.1. Fixed issue where Franz's portraits wouldn't appear in City Hall (c1110.bin).
 *   2022-11-02: Released v1.0.0. Added new Pierre half-bust portrait. Incorporated half-busts for remaining characters at appropriate times. Created folder of all added portraits in png form for ease of viewing.
 *   2022-11-01: Updated scena files for Wendy to add half-bust portraits in several scenes. Confirmed that Chaco, Fernand, and Franz have no relevant scenes that require half-bust portraits.
 *   2022-10-30: Updated half-bust portraits from Akatsuki characters to work properly. Added credit to Kyuuhachi for the tool necessary for said portraits.
@@ -129,7 +130,7 @@ TBD
 *   2022-10-21: Files for Abbas completed. Files for Michel partially completed.
 *   2022-10-20: Updated the number of total files for Sully (Sully appears as "Boy" in two files). Files for Sully completed. Added newly discovered issues to text files issue.
 *   2022-10-19: Updated a portrait for Aeolia. Files for Mireille completed.
-*   2022-10-17: Fixed issue where Pierre's portraits wouldn't appear when in his office (c1160.py).
+*   2022-10-17: Fixed issue where Pierre's portraits wouldn't appear when in his office (c1160.bin).
 *   2022-10-16: Released v0.3.0. New character #2 revealed (Franz). Added two new portraits for Pierre. Files for Pierre and Franz completed. Added folder of documentation images and updated README to include section about the creation process.
 *   2022-10-14: Released v0.2.0. Updated scena files to correct several typos present in the original files, including an error causing "Ozelle" to be named "Zell" in some instances. Files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file. Added folder of sample images and added images to README.
 *   2022-10-13: Updated scena files to correct several typos present in the original files. More files for Scott, Wenzel, Lynn, and Aeolia completed. Added newly discovered issues to text issues file.
