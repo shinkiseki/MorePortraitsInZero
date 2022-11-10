@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam ve
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.0.1 (released 2022-11-03)  
-Last updated: 2022-11-03  
+Last updated: 2022-11-10  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM
@@ -112,14 +112,16 @@ TBD
 
 ## Compatibility with other mods
 *   [Inevitable Zero](https://github.com/Kyuuhachi/Inevitable-Zero)
-    *   Currently incompatible due to modifying some of the same files. A combined mod is possible in the forseeable future upon the completion of More Portraits in Zero.
+    *   Compatible version released (Inevitable Zero v2.2) as of 2022-11-10. To use both mods, first install More Portraits in Zero, then install Inevitable Zero.
+    *   This mod adds new quests that were originally included as part of Zero no Kiseki Evolution. See the Inevitable Zero's README for more info.
 ## Credits
 *   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar and Bennet.
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
-*   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits.
+*   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, as well as the development of a compatible version of the Inevitable Zero mod.
 
 ## Changelog
+*   2022-11-10: Updated README to note added compatibility with the Inevitable Zero mod, which adds new quests originally included as part of Zero no Kiseki Evolution. No file changes within More Portraits in Zero itself.
 *   2022-11-03: Released v1.0.1. Fixed issue where Franz's portraits wouldn't appear in City Hall (c1110.bin). Fixed issue with a Lynn text box in St. Ursula (t1510.bin).
 *   2022-11-02: Released v1.0.0. Added new Pierre half-bust portrait. Incorporated half-busts for remaining characters at appropriate times. Created folder of all added portraits in png form for ease of viewing.
 *   2022-11-01: Updated scena files for Wendy to add half-bust portraits in several scenes. Confirmed that Chaco, Fernand, and Franz have no relevant scenes that require half-bust portraits.
