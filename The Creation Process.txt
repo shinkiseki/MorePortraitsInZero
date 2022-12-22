@@ -1,0 +1,16 @@
+As there have been some elaborate steps taken to develop the assets and tools necessary to make this mod a reality, I'm providing a (hopefully) brief overview of how this mod was made. I'll be covering three parts: creating the raw image portrait files, converting the raw images to the proper format, and editing the scena (scenario) files.
+
+To start, this mod includes portraits from three separate sources: Ao no Kiseki (also known as Trails to Azure), Akatsuki no Kiseki (a Trails gacha title never released in English), and the great work of [YuzuKiyochii](https://twitter.com/YuzuKiyochii). The Azure portraits were sourced from the Geofront version of Azure, so it was possible to directly port those back into Zero with no other modifications necessary.
+
+For the Akatsuki images, though, this process was not as straightforward. Rather than each portrait being stored in a separate file, Akatsuki stores one large image per character:  
+![01-original_wendy](/documentation/01-original_wendy.png)
+
+This meant that there were no portraits that could be drag-and-dropped into the game--portraits would have to be manually created. First, an AI image upscaler was used to increase the resolution of these images.
+
+![02-upscaled_wendy](/documentation/02-upscaled_wendy.png)
+
+Here's a comparison of the original image with the upscaled version--the improvements in image quality should be self-evident.
+
+![03-wendy_comparison](/documentation/03-wendy_comparison.png)
+
+These upscaled images were of high enough quality to use as the base for the portraits.

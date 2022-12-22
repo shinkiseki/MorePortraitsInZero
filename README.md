@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam ve
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.0.1 (released 2022-11-03)  
-Last updated: 2022-11-10  
+Last updated: 2022-11-14  
 Compatible with: Trails from Zero v1.3.7  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM
@@ -98,22 +98,13 @@ For those using GitHub, please report these (or other) issues if they are discov
 *   **[Misc.]** There's probably something I've forgotten to list--let me know and I'll sort it out.
 
 ## The creation process
-As there have been some elaborate steps taken to develop the assets and tools necessary to make this mod a reality, I'm providing a (hopefully) brief overview of how this mod was made. I'll be covering three parts: creating the raw image portrait files, converting the raw images to the proper format, and editing the scena (scenario) files.
-
-To start, this mod includes portraits from three separate sources: Ao no Kiseki (also known as Trails to Azure), Akatsuki no Kiseki (a Trails gacha title never released in English), and the great work of [YuzuKiyochii](https://twitter.com/YuzuKiyochii). The Azure portraits were sourced from the Geofront version of Azure, so it was possible to directly port those back into Zero with no other modifications necessary.
-
-For the Akatsuki images, though, this process was not as straightforward. Rather than each portrait being stored in a separate file, Akatsuki stores one large image per character:  
-![01-original_wendy](/documentation/01-original_wendy.png)
-
-This meant that there were no portraits that could be drag-and-dropped into the game--portraits would have to be manually created.
-
-TBD
-
+Read here: [Link](/The Creation Process.txt)
 
 ## Compatibility with other mods
 *   [Inevitable Zero](https://github.com/Kyuuhachi/Inevitable-Zero)
     *   Compatible version released (Inevitable Zero v2.2) as of 2022-11-10. To use both mods, first install More Portraits in Zero, then install Inevitable Zero.
     *   This mod adds new quests that were originally included as part of Zero no Kiseki Evolution. See the Inevitable Zero's README for more info.
+	
 ## Credits
 *   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar and Bennet.
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
@@ -121,6 +112,8 @@ TBD
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, as well as the development of a compatible version of the Inevitable Zero mod.
 
 ## Changelog
+*   2022-12-22: Released v1.0.2. Fixed issue with a Mireille text box in Bellguard Gate (t2020.bin). Made updates to the creation proess document.
+*   2022-11-14: Updated README to move the section about the creation process from the README to a separately uploaded file.
 *   2022-11-10: Updated README to note added compatibility with the Inevitable Zero mod, which adds new quests originally included as part of Zero no Kiseki Evolution. No file changes within More Portraits in Zero itself.
 *   2022-11-03: Released v1.0.1. Fixed issue where Franz's portraits wouldn't appear in City Hall (c1110.bin). Fixed issue with a Lynn text box in St. Ursula (t1510.bin).
 *   2022-11-02: Released v1.0.0. Added new Pierre half-bust portrait. Incorporated half-busts for remaining characters at appropriate times. Created folder of all added portraits in png form for ease of viewing.
