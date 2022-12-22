@@ -98,7 +98,7 @@ For those using GitHub, please report these (or other) issues if they are discov
 *   **[Misc.]** There's probably something I've forgotten to list--let me know and I'll sort it out.
 
 ## The creation process
-Read here: [Link](The Creation Process.txt)
+Read here: [Link](/The%20Creation%20Process.txt)
 
 ## Compatibility with other mods
 *   [Inevitable Zero](https://github.com/Kyuuhachi/Inevitable-Zero)
