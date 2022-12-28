@@ -3,8 +3,8 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam ve
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.0.2 (released 2022-12-22)  
-Last updated: 2022-12-22  
-Compatible with: Trails from Zero v1.3.7  
+Last updated: 2022-12-27  
+Compatible with: Trails from Zero v1.3.7 (v1.4.2 patch TBD)  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM
 
@@ -112,6 +112,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, as well as the development of a compatible version of the Inevitable Zero mod.
 
 ## Changelog
+*   2022-12-27: Updated README to indicate process of making mod compatible with new patch v1.4.2.
 *   2022-12-22: Released v1.0.2. Fixed issue with a Mireille text box in Bellguard Gate (t2020.bin). Made updates to the creation proess document.
 *   2022-11-14: Updated README to move the section about the creation process from the README to a separately uploaded file.
 *   2022-11-10: Updated README to note added compatibility with the Inevitable Zero mod, which adds new quests originally included as part of Zero no Kiseki Evolution. No file changes within More Portraits in Zero itself.
