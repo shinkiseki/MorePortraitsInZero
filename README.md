@@ -6,7 +6,7 @@ Latest release: v1.1.0 (released 2023-01-15)
 Last updated: 2023-03-15  
 Compatible with: Trails from Zero v1.4.4  
   
-Watch the release trailer here: https://youtu.be/UgrfxsYdrzM
+Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
 Link to the More Portraits in Azure mod: https://github.com/shinkiseki/MorePortraitsInAzure
 
 ## Installation instructions
