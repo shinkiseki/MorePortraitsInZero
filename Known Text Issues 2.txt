@@ -1,0 +1,36 @@
+c0100
+i know these ol' hips of mine are looking forward to relaxing in the warm, soothing water.
+
+c014c
+It might take a while, but it seems like it's just going to come down to diligently combing through the city
+
+c0210
+
+Oh, speaking of...Morge is giving me the afternoon off today.
+
+Hey, you guys. DId you all manage to find the kid yet?
+
+c0240
+Of course. Seeya around, Rixia!
+
+c1010
+Oh, nevermind. Let's just get back to our little meeting.
+
+It was the Non-Interference pact, wasn't it?
+I think it was called the Non-Hindrance pact?
+
+c101c
+I'm sure the police are up to their necks in work. You probably don't need my two cents.
+
+c1110
+We've got quite a spectacular line up.
+
+c1200
+should be Ozelle, not Zell
+
+c1400
+He must be trippin'. There's nothin' na bunch of useless cops can teach us.
+Take your places, Special Support Section,Saber Vipers.
+
+t4000
+Uhmm, so we need this herb, and...this nutrient-rich berry...
