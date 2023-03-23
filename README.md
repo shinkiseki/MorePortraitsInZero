@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA Steam ve
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.1.0 (released 2023-01-15)  
-Last updated: 2023-03-15  
+Last updated: 2023-03-22  
 Compatible with: Trails from Zero v1.4.4  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
@@ -113,6 +113,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, as well as the development of a compatible version of the Inevitable Zero mod.
 
 ## Changelog
+*   2023-03-22: Added two Aeolia portraits. Updated Lynn and Aeolia closed-eyes portraits, using Towa as a base.
 *   2023-03-15: Updated README to link to More Portraits in Azure.
 *   2023-01-27: Updated README to reflect latest compatibility with Inevitable Zero.
 *   2023-01-15: Released v1.1.0. Updated scena files to be compatible with latest patch v1.4.4. Fixed several text boxes and typos.
