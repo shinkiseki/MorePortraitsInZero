@@ -113,11 +113,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, as well as the development of a compatible version of the Inevitable Zero mod.
 
 ## Changelog
-<<<<<<< HEAD
-*   2023-03-30: Added three Pierre portraits and three Franz portraits.
-=======
-*   2023-03-30: Updated README to acknowledge compatibility with GOG version.
->>>>>>> f27feef7749457390773187a75d8a5edc60e7531
+*   2023-03-30: Added three Pierre portraits and three Franz portraits. Updated README to acknowledge compatibility with GOG version.
 *   2023-03-28: Updated README to acknowledge compatibility with latest patch v1.4.6.
 *   2023-03-22: Added two Aeolia portraits. Updated Lynn and Aeolia closed-eyes portraits, using Towa as a base.
 *   2023-03-15: Updated README to link to More Portraits in Azure.
