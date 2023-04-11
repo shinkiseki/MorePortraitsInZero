@@ -2,9 +2,10 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.2.0 (released 2023-04-10)  
-Last updated: 2023-04-10  
-Compatible with: Trails from Zero v1.4.6 (Steam or GOG)  
+Latest release: v1.2.0 (released 2023-04-11)  
+Last updated: 2023-04-11  
+Compatible with: Trails from Zero v1.4.6 (Steam or GOG), EN + JP (英語＋日本語)  
+日本語の説明：　少々お待ち下さい！
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
 Link to the More Portraits in Azure mod: https://github.com/shinkiseki/MorePortraitsInAzure
@@ -13,8 +14,9 @@ Link to the More Portraits in Azure mod: https://github.com/shinkiseki/MorePortr
 1.  Download the latest release of More Portraits in Zero. This should include, among other files, a data folder.
 2.  Identify the folder where the Steam (or GOG) edition of Trails from Zero lives. Within this folder, there should be, among other files, the game itself (zero.exe) and a data folder. This is the __root folder__ of the game.
 3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
-4.  The mod has now been installed! New portraits will now be shown in-game.
-5.  To uninstall the mod on Steam, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
+4. (Optional) There is an option to also install improved versions of the vanilla portraits (see below for comparisons). These are in a separate folder called improved_vanilla_portraits. Within this folder is another data folder. Drag this data folder into the root folder. This will copy all the improved portraits into the root folder. Please note that this will replace the original portrait files.
+5.  The mod has now been installed! New portraits will now be shown in-game. This will work for English and Japanese scripts! 英語も日本語もOKです！
+6.  To uninstall the mod on Steam, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
 
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=gPqF-cjxZ3c) of this mod are labeled as new.
@@ -37,7 +39,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   ??? (0/7)
 
 ## Other features
-*   Coming soon!
+*   Optional -- Improved vanilla portrait quality (Thanks to Cradawx and BigheadSMZ for their work!).
+*   Both English and Japanese scripts are supported! 英語も日本語もOKです！
 
 ## Gameplay screenshots
 ### Wendy
@@ -87,6 +90,12 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Bennet
 ![gameplay_screenshot_bennet_01](/gameplay_screenshots/gameplay_screenshot_bennet_01.jpg)
 
+### Improved Vanilla Portraits
+![gameplay_screenshot_improved_vanilla_portraits_01](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_01.jpg)
+![gameplay_screenshot_improved_vanilla_portraits_02](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_02.jpg)
+![gameplay_screenshot_improved_vanilla_portraits_03](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_03.jpg)
+![gameplay_screenshot_improved_vanilla_portraits_04](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_04.jpg)
+
 ## Reporting issues
 If there is a bug encountered over the course of using this mod, I would appreciate being notified so that I may make the proper fixes.
 
@@ -115,11 +124,12 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar and Bennet.
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
-*   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, as well as the development of a compatible version of the Inevitable Zero mod.
-*   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod for the Azure-only characters.
+*   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, the development of the JP script version of the mod, and the development of a compatible version of the Inevitable Zero mod.
+*   [Cradawx](https://www.reddit.com/user/Cradawx/) for the creation of the Trails to Azure HD texture mod, originally designed for the Geofront version of Trails to Azure. The portraits developed for that mod have been incorporated in this mod for the Azure-only characters, as well as part of an overall portraits overhaul.
+*   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
-*   2023-04-10: Released v1.2.0. Updated scena files to use Pierre's and Franz's new portraits. Updated Azure-only characters' portraits to use Cradawx's portraits.
+*   2023-04-11: Released v1.2.0. Added support for JP text. Updated scena files to use Pierre's and Franz's new portraits. Updated Azure-only characters' portraits to use Cradawx's portraits. Added option to install improved versions of vanilla portraits.
 *   2023-03-30: Added three Pierre portraits and three Franz portraits. Updated README to acknowledge compatibility with GOG version.
 *   2023-03-28: Updated README to acknowledge compatibility with latest patch v1.4.6.
 *   2023-03-22: Added two Aeolia portraits. Updated Lynn and Aeolia closed-eyes portraits, using Towa as a base.
