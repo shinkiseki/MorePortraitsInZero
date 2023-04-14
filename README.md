@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC versi
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.2.0 (released 2023-04-11)  
-Last updated: 2023-04-11  
+Last updated: 2023-04-14  
 Compatible with: Trails from Zero v1.4.6 (Steam or GOG), EN + JP (英語＋日本語)  
 日本語の説明：　少々お待ち下さい！
   
@@ -16,7 +16,9 @@ Link to the More Portraits in Azure mod: https://github.com/shinkiseki/MorePortr
 3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
 4. (Optional) There is an option to also install improved versions of the vanilla portraits (see below for comparisons). These are in a separate folder called improved_vanilla_portraits. Within this folder is another data folder. Drag this data folder into the root folder. This will copy all the improved portraits into the root folder. Please note that this will replace the original portrait files.
 5.  The mod has now been installed! New portraits will now be shown in-game. This will work for English and Japanese scripts! 英語も日本語もOKです！
-6.  To uninstall the mod on Steam, use Steam's option to verify integrity of game files (Properties -> Local Files -> Verify integrity of game files...). This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
+6.  To uninstall the mod, verify integrity of game files. This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
+	*   On Steam, right-click the game in the Steam client, then select Properties -> Local Files -> Verify integrity of game files.
+	*   On GOG, click on the game in the GOG client, then select More -> Manage Installation -> Verify/Repair -> VERIFY GAME.
 
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=gPqF-cjxZ3c) of this mod are labeled as new.
@@ -129,6 +131,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2023-04-14: Updated README to include uninstallation insstructions for GOG.
 *   2023-04-11: Released v1.2.0. Added support for JP text. Updated scena files to use Pierre's and Franz's new portraits. Updated Azure-only characters' portraits to use Cradawx's portraits. Added option to install improved versions of vanilla portraits.
 *   2023-03-30: Added three Pierre portraits and three Franz portraits. Updated README to acknowledge compatibility with GOG version.
 *   2023-03-28: Updated README to acknowledge compatibility with latest patch v1.4.6.
