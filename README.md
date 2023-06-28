@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC versi
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.2.0 (released 2023-04-11)  
-Last updated: 2023-06-03  
+Last updated: 2023-06-21  
 Compatible with: Trails from Zero v1.4.7 (Steam or GOG), EN + JP (英語＋日本語)  
 日本語の説明：　少々お待ち下さい！
   
@@ -38,7 +38,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Oscar (3/3)**
 *   **[NEW!] Bennet (3/3)**
 *   **[NEW!] Shanshan (3/3)**
-*   ??? (0/7)
+*   **[NEW!] Kate (7/7)**
 
 ## Other features
 *   Optional -- Improved vanilla portrait quality (Thanks to Cradawx and BigheadSMZ for their work!).
@@ -92,6 +92,12 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Bennet
 ![gameplay_screenshot_bennet_01](/gameplay_screenshots/gameplay_screenshot_bennet_01.jpg)
 
+### Shanshan
+![gameplay_screenshot_shanshan_01](/gameplay_screenshots/gameplay_screenshot_shanshan_01.jpg)
+
+### Kate
+![gameplay_screenshot_kate_01](/gameplay_screenshots/gameplay_screenshot_kate_01.jpg) 
+
 ### Improved Vanilla Portraits
 ![gameplay_screenshot_improved_vanilla_portraits_01](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_01.jpg)
 ![gameplay_screenshot_improved_vanilla_portraits_02](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_02.jpg)
@@ -131,6 +137,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2023-06-27: New character #6 revealed (Kate). Files for Kate completed.
 *   2023-06-03: New character #5 revealed (Shanshan). Files for Shanshan completed.
 *   2023-04-14: Updated README to include uninstallation insstructions for GOG.
 *   2023-04-11: Released v1.2.0. Added support for JP text. Updated scena files to use Pierre's and Franz's new portraits. Updated Azure-only characters' portraits to use Cradawx's portraits. Added option to install improved versions of vanilla portraits.
