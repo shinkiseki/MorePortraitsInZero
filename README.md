@@ -2,9 +2,9 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.2.0 (released 2023-04-11)  
-Last updated: 2023-06-21  
-Compatible with: Trails from Zero v1.4.7 (Steam or GOG), EN + JP (英語＋日本語)  
+Latest release: v1.3.0 (released 2023-09-24)  
+Last updated: 2023-09-24  
+Compatible with: Trails from Zero v1.4.12 (Steam or GOG), EN + JP (英語＋日本語)  
 日本語の説明：　少々お待ち下さい！
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
@@ -129,7 +129,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
     *   This mod adds new quests that were originally included as part of Zero no Kiseki Evolution. See Inevitable Zero's README for more info.
 	
 ## Credits
-*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar and Bennet.
+*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar, Bennet, Shanshan, and Kate.
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, the development of the JP script version of the mod, and the development of a compatible version of the Inevitable Zero mod.
@@ -137,8 +137,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
-*   2023-06-27: New character #6 revealed (Kate). Files for Kate completed.
-*   2023-06-03: New character #5 revealed (Shanshan). Files for Shanshan completed.
+*   2023-09-24: Released v1.3.0. New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.4.12.
 *   2023-04-14: Updated README to include uninstallation insstructions for GOG.
 *   2023-04-11: Released v1.2.0. Added support for JP text. Updated scena files to use Pierre's and Franz's new portraits. Updated Azure-only characters' portraits to use Cradawx's portraits. Added option to install improved versions of vanilla portraits.
 *   2023-03-30: Added three Pierre portraits and three Franz portraits. Updated README to acknowledge compatibility with GOG version.
