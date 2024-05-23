@@ -2,10 +2,9 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.3.1 (released 2023-10-14)  
-Last updated: 2023-10-14  
+Latest release: v1.4.0 (released 2024-05-23)  
+Last updated: 2024-05-23  
 Compatible with: Trails from Zero v1.4.12 (Steam or GOG), EN + JP (英語＋日本語)  
-日本語の説明：　少々お待ち下さい！
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
 Link to the More Portraits in Azure mod: https://github.com/shinkiseki/MorePortraitsInAzure
@@ -39,6 +38,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Bennet (3/3)**
 *   **[NEW!] Shanshan (3/3)**
 *   **[NEW!] Kate (7/7)**
+*   **[NEW!] Ashleigh (2/2)**
+*   **[NEW!] Jingo (1/1)**
 
 ## Other features
 *   Optional -- Improved vanilla portrait quality (Thanks to Cradawx and BigheadSMZ for their work!).
@@ -96,7 +97,13 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ![gameplay_screenshot_shanshan_01](/gameplay_screenshots/gameplay_screenshot_shanshan_01.jpg)
 
 ### Kate
-![gameplay_screenshot_kate_01](/gameplay_screenshots/gameplay_screenshot_kate_01.jpg) 
+![gameplay_screenshot_kate_01](/gameplay_screenshots/gameplay_screenshot_kate_01.jpg)
+
+### Ashleigh
+![gameplay_screenshot_ashleigh_01](/gameplay_screenshots/gameplay_screenshot_ashleigh_01.jpg)
+
+### Jingo
+![gameplay_screenshot_jingo_01](/gameplay_screenshots/gameplay_screenshot_jingo_01.jpg)
 
 ### Improved Vanilla Portraits
 ![gameplay_screenshot_improved_vanilla_portraits_01](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_01.jpg)
@@ -129,7 +136,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
     *   This mod adds new quests that were originally included as part of Zero no Kiseki Evolution. See Inevitable Zero's README for more info.
 	
 ## Credits
-*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar, Bennet, Shanshan, and Kate.
+*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar, Bennet, Shanshan, Kate, Ashleigh, and Jingo.
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, the development of the JP script version of the mod, and the development of a compatible version of the Inevitable Zero mod.
@@ -137,6 +144,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2024-05-23: Released v1.4.0. New characters #7 and #8 revealed (Ashleigh and Jingo). Files for Ashleigh and Jingo completed.
 *   2023-10-14: Released v1.3.1. Fixed issue where Kate's portraits wouldn't appear in Crossbell Police Department (c1150.bin).
 *   2023-09-24: Released v1.3.0. New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.4.12.
 *   2023-04-14: Updated README to include uninstallation insstructions for GOG.
