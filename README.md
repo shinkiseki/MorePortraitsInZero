@@ -11,13 +11,14 @@ Link to the More Portraits in Azure mod: https://github.com/shinkiseki/MorePortr
 
 ## Installation instructions
 1.  Download the latest release of More Portraits in Zero. This should include a data folder.
-2.  Identify the folder where the Steam (or GOG) edition of Trails from Zero lives. Within this folder, there should be, among other files, the game itself (zero.exe) and a data folder. This is the __root folder__ of the game.
-3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that this will replace some of the original scena (scenario) files.
+2.  Identify the folder where the Steam (or GOG) edition of Trails from Zero lives. Within this folder, there should be, among other files, the game itself (zero.exe) and a data folder. This can be done by right-clicking on the game in the Steam library, then selecting Manage → Browse local files. This is the __root folder__ of the game.  
+	*   For Steam Deck users, use Desktop mode to browse local files. 
+3.  Drag the mod's data folder into the root folder. This will copy all the mod files into the root folder, placing all files into the correct subfolders. Please note that there will be a prompt to replace some of the original scena (scenario) files.
 4. (Optional) There is an option to also install improved versions of the vanilla portraits (see below for comparisons). These are in a separate download called Improved Vanilla Portraits. In this release is another data folder. Drag this data folder into the root folder. This will copy all the improved portraits into the root folder. Please note that this will replace the original portrait files.
 5.  The mod has now been installed! New portraits will now be shown in-game. This will work for English and Japanese scripts! 英語も日本語もOKです！
 6.  To uninstall the mod, verify integrity of game files. This will revert all scena files back to normal. Note that the added portraits will not be removed; these will not impact your gameplay.
-	*   On Steam, right-click the game in the Steam client, then select Properties -> Local Files -> Verify integrity of game files.
-	*   On GOG, click on the game in the GOG client, then select More -> Manage Installation -> Verify/Repair -> VERIFY GAME.
+	*   On Steam, right-click the game in the Steam client, then select Properties → Local Files → Verify integrity of game files.
+	*   On GOG, click on the game in the GOG client, then select More → Manage Installation → Verify/Repair → VERIFY GAME.
 
 ## List of added characters
 Completed characters in **bold**. Characters not previously included in the [Geofront version](https://www.youtube.com/watch?v=gPqF-cjxZ3c) of this mod are labeled as new.
@@ -144,7 +145,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
-*   2024-12-31: No release -- verified compatibility with new patch v1.4.13.
+*   2024-12-31: No release -- verified compatibility with new patch v1.4.13. Added instructions for using the mod with a Steam Deck.
 *   2024-05-23: Released v1.4.0. New characters #7 and #8 revealed (Ashleigh and Jingo). Files for Ashleigh and Jingo completed.
 *   2023-10-14: Released v1.3.1. Fixed issue where Kate's portraits wouldn't appear in Crossbell Police Department (c1150.bin).
 *   2023-09-24: Released v1.3.0. New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.4.12.
