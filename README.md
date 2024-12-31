@@ -3,8 +3,8 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC versi
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.4.0 (released 2024-05-23)  
-Last updated: 2024-05-23  
-Compatible with: Trails from Zero v1.4.12 (Steam or GOG), EN + JP (英語＋日本語)  
+Last updated: 2024-12-31  
+Compatible with: Trails from Zero v1.4.13 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
 Link to the More Portraits in Azure mod: https://github.com/shinkiseki/MorePortraitsInAzure
@@ -144,6 +144,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2024-12-31: No release -- verified compatibility with new patch v1.4.13.
 *   2024-05-23: Released v1.4.0. New characters #7 and #8 revealed (Ashleigh and Jingo). Files for Ashleigh and Jingo completed.
 *   2023-10-14: Released v1.3.1. Fixed issue where Kate's portraits wouldn't appear in Crossbell Police Department (c1150.bin).
 *   2023-09-24: Released v1.3.0. New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.4.12.
