@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC versi
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.4.0 (released 2024-05-23)  
-Last updated: 2024-05-23  
+Last updated: 2025-05-04  
 Compatible with: Trails from Zero v1.4.12 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
@@ -144,6 +144,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2025-05-04: Fixed Elie's typo in English in the SSS building (c0110_1.bin).
 *   2024-05-23: Released v1.4.0. New characters #7 and #8 revealed (Ashleigh and Jingo). Files for Ashleigh and Jingo completed.
 *   2023-10-14: Released v1.3.1. Fixed issue where Kate's portraits wouldn't appear in Crossbell Police Department (c1150.bin).
 *   2023-09-24: Released v1.3.0. New characters #5 and #6 revealed (Shanshan and Kate). Files for Shanshan and Kate completed. Updated scena files to be compatible with latest patch v1.4.12.
@@ -156,7 +157,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   2023-01-27: Updated README to reflect latest compatibility with Inevitable Zero.
 *   2023-01-15: Released v1.1.0. Updated scena files to be compatible with latest patch v1.4.4. Fixed several text boxes and typos.
 *   2022-12-27: Updated README to indicate process of making mod compatible with new patch v1.4.2.
-*   2022-12-22: Released v1.0.2. Fixed issue with a Mireille text box in Bellguard Gate (t2020.bin). Made updates to the creation proess document.
+*   2022-12-22: Released v1.0.2. Fixed issue with a Mireille text box in Bellguard Gate (t2020.bin). Made updates to the creation process document.
 *   2022-11-14: Updated README to move the section about the creation process from the README to a separately uploaded file.
 *   2022-11-10: Updated README to note added compatibility with the Inevitable Zero mod, which adds new quests originally included as part of Zero no Kiseki Evolution. No file changes within More Portraits in Zero itself.
 *   2022-11-03: Released v1.0.1. Fixed issue where Franz's portraits wouldn't appear in City Hall (c1110.bin). Fixed issue with a Lynn text box in St. Ursula (t1510.bin).
