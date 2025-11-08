@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.4.0 (released 2024-05-23)  
-Last updated: 2025-05-25  
+Latest release: v1.5.0 (released 2025-11-07)  
+Last updated: 2025-11-07  
 Compatible with: Trails from Zero v1.4.13 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
@@ -43,6 +43,10 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Kate (7/7)**
 *   **[NEW!] Ashleigh (2/2)**
 *   **[NEW!] Jingo (1/1)**
+*   **[NEW!] Roy (2/3)**
+*   **[NEW!] Meiling (2/3)**
+*   **[NEW!] Donovan (0/8)**
+*   **[NEW!] Raymond (0/8)**
 
 ## Other features
 *   Optional -- Improved vanilla portrait quality (Thanks to Cradawx and BigheadSMZ for their work!).
@@ -108,6 +112,18 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 ### Jingo
 ![gameplay_screenshot_jingo_01](/gameplay_screenshots/gameplay_screenshot_jingo_01.jpg)
 
+### Roy
+![gameplay_screenshot_roy_01](/gameplay_screenshots/gameplay_screenshot_roy_01.jpg)
+
+### Meiling
+![gameplay_screenshot_meiling_01](/gameplay_screenshots/gameplay_screenshot_meiling_01.jpg)
+
+### Donovan
+![gameplay_screenshot_donovan_01](/gameplay_screenshots/gameplay_screenshot_donovan_01.jpg)
+
+### Raymond
+![gameplay_screenshot_raymond_01](/gameplay_screenshots/gameplay_screenshot_raymond_01.jpg)
+
 ### Improved Vanilla Portraits
 ![gameplay_screenshot_improved_vanilla_portraits_01](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_01.jpg)
 ![gameplay_screenshot_improved_vanilla_portraits_02](/gameplay_screenshots/gameplay_screenshot_improved_vanilla_portraits_02.jpg)
@@ -139,7 +155,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
     *   This mod adds new quests that were originally included as part of Zero no Kiseki Evolution. See Inevitable Zero's README for more info.
 	
 ## Credits
-*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar, Bennet, Shanshan, Kate, Ashleigh, and Jingo.
+*   [YuzuKiyochii](https://twitter.com/YuzuKiyochii) for the creation of all-new portraits for Oscar, Bennet, Shanshan, Kate, Ashleigh, Jingo, Roy, Meiling, Donovan, and Raymond.
 *   [Graber](https://twitter.com/AdrianGraber) for [the version of EDDecompiler](https://github.com/AGraber/EDDecompiler) used for developing this mod.
 *   Ouroboros for the development of the original [EDDecompiler](https://github.com/Ouroboros/EDDecompiler).
 *   [Kyuuhachi](https://github.com/kyuuhachi) for the development of the dds2itp tool used for developing half-bust portraits, the development of the JP script version of the mod, and the development of a compatible version of the Inevitable Zero mod.
@@ -147,6 +163,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2025-11-07: Released v1.5.0. New characters #9 and #10 revealed (Roy and Meiling). Files for Roy and Meiling completed. New characters #11 and #12 revealed (Donovan and Raymond), in progress.
 *   2025-05-25: Updated README to include installation instructions for a modded Nintendo Switch.
 *   2025-05-04: Fixed Elie's typo in English in the SSS building (c0110_1.bin).
 *   2024-12-31: No release -- verified compatibility with new patch v1.4.13. Added instructions for using the mod with a Steam Deck.
