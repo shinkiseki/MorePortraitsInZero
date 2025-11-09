@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.5.0 (released 2025-11-07)  
-Last updated: 2025-11-07  
+Latest release: v1.5.0 (released 2025-11-08)  
+Last updated: 2025-11-08  
 Compatible with: Trails from Zero v1.4.13 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
@@ -43,8 +43,8 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Kate (7/7)**
 *   **[NEW!] Ashleigh (2/2)**
 *   **[NEW!] Jingo (1/1)**
-*   **[NEW!] Roy (2/3)**
-*   **[NEW!] Meiling (2/3)**
+*   **[NEW!] Roy (3/3)**
+*   **[NEW!] Meiling (3/3)**
 *   **[NEW!] Donovan (0/8)**
 *   **[NEW!] Raymond (0/8)**
 
@@ -163,7 +163,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
-*   2025-11-07: Released v1.5.0. New characters #9 and #10 revealed (Roy and Meiling). Files for Roy and Meiling completed. New characters #11 and #12 revealed (Donovan and Raymond), in progress.
+*   2025-11-08: Released v1.5.0. New characters #9 and #10 revealed (Roy and Meiling). Files for Roy and Meiling completed. New characters #11 and #12 revealed (Donovan and Raymond), in progress.
 *   2025-05-25: Updated README to include installation instructions for a modded Nintendo Switch.
 *   2025-05-04: Fixed Elie's typo in English in the SSS building (c0110_1.bin).
 *   2024-12-31: No release -- verified compatibility with new patch v1.4.13. Added instructions for using the mod with a Steam Deck.
