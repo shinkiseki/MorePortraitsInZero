@@ -3,7 +3,7 @@ Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC versi
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
 Latest release: v1.5.1 (released 2025-12-10)  
-Last updated: 2026-04-25  
+Last updated: 2026-07-12  
 Compatible with: Trails from Zero v1.4.13 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
@@ -45,7 +45,7 @@ Completed characters in **bold**. Characters not previously included in the [Geo
 *   **[NEW!] Jingo (1/1)**
 *   **[NEW!] Roy (3/3)**
 *   **[NEW!] Meiling (3/3)**
-*   **[NEW!] ??? (0/8)**
+*   **[NEW!] Donovan (8/8)**
 *   **[NEW!] Raymond (8/8)**
 
 ## Other features
