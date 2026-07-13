@@ -2,8 +2,8 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.5.1 (released 2025-12-10)  
-Last updated: 2026-07-12  
+Latest release: v1.6.0 (released 2027-07-18)  
+Last updated: 2026-07-18  
 Compatible with: Trails from Zero v1.4.13 (Steam or GOG), EN + JP (英語＋日本語)  
   
 Watch the release trailer here: https://youtu.be/UgrfxsYdrzM  
@@ -163,6 +163,7 @@ Read here: [Link](/The%20Creation%20Process.txt)
 *   [BigheadSMZ](https://www.reddit.com/user/BigheadSMZ/) for the creation of the Trails from Zero HD Portraits Project, originally designed for the Geofront version of Trails from Zero. The portraits developed for that mod have been incorporated in this mod as part of an overall portraits overhaul.
 
 ## Changelog
+*   2026-07-18: Released v1.6.0. New characters #11 and #12 revealed (Donovan and Raymond). Files for Donovan and Raymond completed.
 *   2025-12-10: Released v1.5.1. Fixed a Shanshan text box in English in Long Lao (c1030.bin).
 *   2025-11-10: Released v1.5.0. New characters #9 and #10 revealed (Roy and Meiling). Files for Roy and Meiling completed.
 *   2025-05-25: Updated README to include installation instructions for a modded Nintendo Switch.
