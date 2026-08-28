@@ -2,7 +2,7 @@
 Adds more portraits (Akatsuki, Azure, and completely new) in the **NISA PC version of Trails from Zero**.
 
 Created by: ShinKiseki (Reddit: [u/ShinKiseki](https://www.reddit.com/user/ShinKiseki); Twitter: [Shin_Kiseki](https://twitter.com/Shin_Kiseki))  
-Latest release: v1.6.0 (released 2027-07-28)  
+Latest release: v1.6.0 (released 2026-07-28)  
 Last updated: 2026-07-28  
 Compatible with: Trails from Zero v1.4.13 (Steam or GOG), EN + JP (英語＋日本語)  
   
